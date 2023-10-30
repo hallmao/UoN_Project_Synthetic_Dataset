@@ -3,6 +3,7 @@ from datetime import datetime, timedelta
 from faker import Faker
 import random
 import argparse
+from templates.templates import TEMPLATES
 
 # Initialize faker
 fake = Faker()
@@ -11,39 +12,9 @@ def generate_appointment():
     # Generate random patient name
     patient_name = fake.name()
     
-    # List of mock reasons for appointments
-    reasons = [
-        "Routine Checkup", 
-        "Flu Shot", 
-        "Follow-up from Surgery", 
-        "Blood Pressure Monitoring", 
-        "Physical Therapy", 
-        "Vaccination", 
-        "Dental Checkup", 
-        "Eye Examination",
-        "Cardiology Consultation",
-        "Dermatology Consultation",
-        "Gastroenterology Consultation",
-        "Endocrinology Consultation",
-        "Neurology Consultation",
-        "Orthopedic Consultation",
-        "Psychiatry Consultation",
-        "Pulmonology Consultation",
-        "Radiology Consultation",
-        "Urology Consultation",
-        "Allergy Testing",
-        "Audiology Testing",
-        "Blood Work",
-        "CT Scan",
-        "MRI",
-        "Ultrasound",
-        "X-Ray",
-        "Biopsy",
-        "Colonoscopy",
-        "Endoscopy",
-        "Mammogram"
-    ]
-    reason = random.choice(reasons)
+    # Select a random template
+    template = random.choice(list(TEMPLATES.values()))
+    reason = random.choice(template["reasons"])
 
     # Generate random appointment date and time within working hours
     today = datetime.today()
@@ -67,10 +38,10 @@ def generate_appointment():
 
     # Create an iCalendar event
     event = Event()
-    event.add('summary', f'Appointment for {patient_name} - {reason}')
+    event.add('summary', template["summary"].format(patient_name=patient_name, reason=reason))
     event.add('dtstart', start_time)
     event.add('dtend', end_time)
-    event.add('description', f'Medical appointment for {patient_name} regarding {reason}')
+    event.add('description', template["description"].format(patient_name=patient_name, reason=reason))
     event.add('location', location)
     
     return event
