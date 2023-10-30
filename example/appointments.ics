@@ -2,920 +2,1052 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Mock Medical Appointments//
 BEGIN:VEVENT
-SUMMARY:Maria Jenkins\, Vaccination appointment. Don't forget your medical
-  history.
-DTSTART:20231108T110000
-DTEND:20231108T113000
-DESCRIPTION:Maria Jenkins\, we are looking forward to seeing you for your 
- appointment regarding Vaccination. It's important to bring your medical hi
- story for reference.
-LOCATION:Block D - Building 2 - Floor 6 - Room 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dustin Brooks\, Physical Therapy appointment. Bring dietary supple
- ments list.
-DTSTART:20231101T143000
-DTEND:20231101T150000
-DESCRIPTION:Dustin Brooks\, for your Physical Therapy appointment\, please
-  bring a list of any dietary supplements you are taking.
-LOCATION:Block A - Building 4 - Floor 6 - Room 10
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Natasha Hancock\, Physical Therapy appointment. Bring relevant doc
- uments.
-DTSTART:20231127T160000
-DTEND:20231127T163000
-DESCRIPTION:Dear Natasha Hancock\, for your upcoming appointment for Physi
- cal Therapy\, bringing relevant medical documents will help us provide bet
- ter care.
-LOCATION:Block D - Building 3 - Floor 5 - Room 6
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Victoria Suarez\, Blood Pressure Monitoring appointment. Bring rel
- evant documents.
-DTSTART:20231120T090000
-DTEND:20231120T093000
-DESCRIPTION:Dear Victoria Suarez\, for your upcoming appointment for Blood
-  Pressure Monitoring\, bringing relevant medical documents will help us pr
- ovide better care.
-LOCATION:Block C - Building 3 - Floor 2 - Room 8
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Christopher Moore MD\, Eye Examination appointment. Note any sympt
- oms.
-DTSTART:20231103T140000
-DTEND:20231103T143000
-DESCRIPTION:Christopher Moore MD\, during your next appointment for Eye Ex
- amination\, it would be helpful if you could share any symptoms you've bee
- n experiencing lately.
-LOCATION:Block A - Building 3 - Floor 2 - Room 4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Carol Rosario\, Allergy Testing appointment. Bring allergy list.
-DTSTART:20231108T113000
-DTEND:20231108T120000
-DESCRIPTION:Carol Rosario\, for your Allergy Testing appointment\, please 
- bring a list of any allergies you have.
-LOCATION:Block C - Building 4 - Floor 3 - Room 10
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Erica Paul\, Dental Checkup appointment. Bring a family member if 
- needed.
-DTSTART:20231031T130000
-DTEND:20231031T133000
-DESCRIPTION:Erica Paul\, for your Dental Checkup appointment\, if you need
-  to\, please bring a family member.
-LOCATION:Block C - Building 2 - Floor 2 - Room 9
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Amanda Estrada\, Physical Therapy appointment. Bring a family memb
- er if needed.
-DTSTART:20231110T150000
-DTEND:20231110T153000
-DESCRIPTION:Amanda Estrada\, for your Physical Therapy appointment\, if yo
- u need to\, please bring a family member.
-LOCATION:Block B - Building 5 - Floor 6 - Room 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Michael Norton\, Endoscopy appointment. Remember to fast.
-DTSTART:20231106T180000
-DTEND:20231106T183000
-DESCRIPTION:Dear Michael Norton\, your appointment for Endoscopy is coming
-  up. Remember\, fasting for 12 hours prior is crucial for accurate results
- .
-LOCATION:Block C - Building 4 - Floor 6 - Room 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tara Arias\, Blood Pressure Monitoring appointment. Bring pharmacy
-  contact info.
-DTSTART:20231124T093000
-DTEND:20231124T100000
-DESCRIPTION:Tara Arias\, for your Blood Pressure Monitoring appointment\, 
- please bring your pharmacy contact info.
-LOCATION:Block D - Building 1 - Floor 3 - Room 8
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Michael Thomas\, Follow-up from Surgery appointment. Don't forget 
- your medical history.
-DTSTART:20231110T083000
-DTEND:20231110T090000
-DESCRIPTION:Michael Thomas\, we are looking forward to seeing you for your
-  appointment regarding Follow-up from Surgery. It's important to bring you
- r medical history for reference.
-LOCATION:Block D - Building 4 - Floor 1 - Room 6
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Samuel Young\, Follow-up from Surgery appointment. Avoid strenuous
-  activity.
-DTSTART:20231106T183000
-DTEND:20231106T190000
-DESCRIPTION:Samuel Young\, ahead of your appointment for Follow-up from Su
- rgery\, we advise against any strenuous activity to ensure accurate readin
- gs.
-LOCATION:Block D - Building 5 - Floor 4 - Room 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kelly Perez\, Physical Therapy appointment. Bring medication list.
-DTSTART:20231120T080000
-DTEND:20231120T083000
-DESCRIPTION:Hello Kelly Perez\, during your next medical checkup for Physi
- cal Therapy\, please bring a list of medications you are currently taking 
- for our reference.
-LOCATION:Block A - Building 2 - Floor 3 - Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ralph Snyder\, Eye Examination appointment. Bring your insurance c
- ard.
-DTSTART:20231127T133000
-DTEND:20231127T140000
-DESCRIPTION:Hello Ralph Snyder\, your medical checkup for Eye Examination 
- is due soon. Having your insurance card at hand will expedite the process.
-LOCATION:Block A - Building 3 - Floor 6 - Room 4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Zachary Gardner\, Physical Therapy appointment. Inform us if resch
- eduling.
-DTSTART:20231121T110000
-DTEND:20231121T113000
-DESCRIPTION:Zachary Gardner\, your medical consultation for Physical Thera
- py is scheduled. If you need to reschedule\, please let us know in advance
- .
-LOCATION:Block C - Building 5 - Floor 1 - Room 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alicia Patterson\, Follow-up from Surgery appointment. Bring your 
- insurance card.
-DTSTART:20231115T133000
-DTEND:20231115T140000
-DESCRIPTION:Hello Alicia Patterson\, your medical checkup for Follow-up fr
- om Surgery is due soon. Having your insurance card at hand will expedite t
- he process.
-LOCATION:Block D - Building 1 - Floor 3 - Room 9
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yvonne Fields\, Audiology Testing appointment. Bring hearing aids 
- if needed.
-DTSTART:20231030T090000
-DTEND:20231030T093000
-DESCRIPTION:Yvonne Fields\, for your Audiology Testing appointment\, if yo
- u use hearing aids\, please bring them.
-LOCATION:Block C - Building 5 - Floor 4 - Room 4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lori Wright\, Follow-up from Surgery appointment. Bring your ID.
-DTSTART:20231116T150000
-DTEND:20231116T153000
-DESCRIPTION:Lori Wright\, your appointment for Follow-up from Surgery is s
- oon. Please bring your ID for verification.
-LOCATION:Block B - Building 5 - Floor 1 - Room 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wanda Thompson\, Blood Pressure Monitoring appointment. Bring a fa
- mily member if needed.
-DTSTART:20231031T140000
-DTEND:20231031T143000
-DESCRIPTION:Wanda Thompson\, for your Blood Pressure Monitoring appointmen
- t\, if you need to\, please bring a family member.
-LOCATION:Block D - Building 5 - Floor 6 - Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Patrick Aguilar\, Routine Checkup appointment. Avoid strenuous act
- ivity.
-DTSTART:20231030T110000
-DTEND:20231030T113000
-DESCRIPTION:Patrick Aguilar\, ahead of your appointment for Routine Checku
- p\, we advise against any strenuous activity to ensure accurate readings.
-LOCATION:Block D - Building 1 - Floor 5 - Room 4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Annette Garcia\, Vaccination appointment. Don't forget your medica
- l history.
-DTSTART:20231115T163000
-DTEND:20231115T170000
-DESCRIPTION:Annette Garcia\, we are looking forward to seeing you for your
-  appointment regarding Vaccination. It's important to bring your medical h
- istory for reference.
-LOCATION:Block A - Building 2 - Floor 3 - Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kimberly Parker\, Dental Checkup appointment. Avoid strenuous acti
- vity.
-DTSTART:20231120T163000
-DTEND:20231120T170000
-DESCRIPTION:Kimberly Parker\, ahead of your appointment for Dental Checkup
- \, we advise against any strenuous activity to ensure accurate readings.
-LOCATION:Block D - Building 4 - Floor 2 - Room 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Christopher Jones\, Follow-up from Surgery appointment. Avoid stre
- nuous activity.
-DTSTART:20231124T130000
-DTEND:20231124T133000
-DESCRIPTION:Christopher Jones\, ahead of your appointment for Follow-up fr
- om Surgery\, we advise against any strenuous activity to ensure accurate r
- eadings.
-LOCATION:Block A - Building 2 - Floor 4 - Room 10
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:William Ward\, Blood Pressure Monitoring appointment. Bring your i
- nsurance card.
-DTSTART:20231122T083000
-DTEND:20231122T090000
-DESCRIPTION:Hello William Ward\, your medical checkup for Blood Pressure M
- onitoring is due soon. Having your insurance card at hand will expedite th
- e process.
-LOCATION:Block B - Building 3 - Floor 2 - Room 10
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oscar Perry\, Physical Therapy appointment. Bring a family member 
- if needed.
+SUMMARY:Dear Andrew Williams\, your Dental Checkup appointment is schedule
+ d. Please bring any recent test results if available.
 DTSTART:20231124T133000
 DTEND:20231124T140000
-DESCRIPTION:Oscar Perry\, for your Physical Therapy appointment\, if you n
- eed to\, please bring a family member.
-LOCATION:Block B - Building 1 - Floor 1 - Room 7
+DESCRIPTION:We have scheduled your appointment for Dental Checkup\, Andrew
+  Williams. If you have any recent test results\, please bring them along. 
+ This will help us provide the best care possible.
+LOCATION:Block A - Building 1 - Floor 3 - Room 5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Roger Smith\, Dental Checkup appointment. Bring recent test result
- s.
-DTSTART:20231124T093000
-DTEND:20231124T100000
-DESCRIPTION:Roger Smith\, your Dental Checkup appointment is scheduled. Pl
- ease bring any recent test results if available.
-LOCATION:Block C - Building 4 - Floor 4 - Room 6
+SUMMARY:Dear Angel Fitzgerald\, your appointment for Blood Pressure Monito
+ ring is confirmed. Please arrive 15 minutes early.
+DTSTART:20231108T130000
+DTEND:20231108T133000
+DESCRIPTION:We have scheduled your appointment for Blood Pressure Monitori
+ ng\, Angel Fitzgerald. Arriving 15 minutes early will help us serve you be
+ tter and maintain our schedule.
+LOCATION:Block B - Building 2 - Floor 1 - Room 8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eddie Price\, Blood Pressure Monitoring appointment. Don't forget 
- your medical history.
-DTSTART:20231109T163000
-DTEND:20231109T170000
-DESCRIPTION:Eddie Price\, we are looking forward to seeing you for your ap
- pointment regarding Blood Pressure Monitoring. It's important to bring you
- r medical history for reference.
-LOCATION:Block B - Building 3 - Floor 2 - Room 8
+SUMMARY:Dear Daniel Mclean\, for your Routine Checkup appointment\, please
+  bring a list of any allergies you have.
+DTSTART:20231106T110000
+DTEND:20231106T113000
+DESCRIPTION:We are committed to your health\, Daniel Mclean. For your Rout
+ ine Checkup appointment\, please bring a list of any allergies you have. T
+ his will help us understand your health better and provide the best care p
+ ossible.
+LOCATION:Block C - Building 4 - Floor 5 - Room 9
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eric Clark\, Blood Pressure Monitoring appointment. Bring medicati
- on list.
-DTSTART:20231113T133000
-DTEND:20231113T140000
-DESCRIPTION:Hello Eric Clark\, during your next medical checkup for Blood 
- Pressure Monitoring\, please bring a list of medications you are currently
-  taking for our reference.
-LOCATION:Block D - Building 3 - Floor 4 - Room 2
+SUMMARY:Dear Chase Woodward\, for your Eye Examination appointment\, if yo
+ u wear glasses or contact lenses\, please bring them.
+DTSTART:20231106T113000
+DTEND:20231106T120000
+DESCRIPTION:We are looking forward to your Eye Examination appointment\, C
+ hase Woodward. If you wear glasses or contact lenses\, please bring them a
+ long. This will help us provide the best care possible.
+LOCATION:Block B - Building 4 - Floor 2 - Room 4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Alex Greer DDS\, Routine Checkup appointment. Bring medication lis
- t.
-DTSTART:20231115T160000
-DTEND:20231115T163000
-DESCRIPTION:Hello Alex Greer DDS\, during your next medical checkup for Ro
- utine Checkup\, please bring a list of medications you are currently takin
- g for our reference.
-LOCATION:Block B - Building 3 - Floor 1 - Room 4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dr. Shawn Bryant\, Follow-up from Surgery appointment. Don't forge
- t your medical history.
-DTSTART:20231113T110000
-DTEND:20231113T113000
-DESCRIPTION:Dr. Shawn Bryant\, we are looking forward to seeing you for yo
- ur appointment regarding Follow-up from Surgery. It's important to bring y
- our medical history for reference.
-LOCATION:Block C - Building 3 - Floor 1 - Room 8
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Crystal Soto\, Blood Work appointment. Remember to fast.
-DTSTART:20231101T180000
-DTEND:20231101T183000
-DESCRIPTION:Dear Crystal Soto\, your appointment for Blood Work is coming 
- up. Remember\, fasting for 12 hours prior is crucial for accurate results.
-LOCATION:Block D - Building 5 - Floor 5 - Room 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Thomas Burch\, Biopsy appointment. Remember to fast.
-DTSTART:20231107T110000
-DTEND:20231107T113000
-DESCRIPTION:Dear Thomas Burch\, your appointment for Biopsy is coming up. 
- Remember\, fasting for 12 hours prior is crucial for accurate results.
-LOCATION:Block B - Building 4 - Floor 6 - Room 6
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tyler Green\, Physical Therapy appointment. Be there 15 minutes ea
- rly.
-DTSTART:20231123T170000
-DTEND:20231123T173000
-DESCRIPTION:Tyler Green\, your appointment for Physical Therapy is confirm
- ed. Arriving 15 minutes early helps us stay on schedule and serve you bett
- er.
-LOCATION:Block C - Building 2 - Floor 3 - Room 3
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Catherine Jackson\, Dental Checkup appointment. Avoid strenuous ac
- tivity.
-DTSTART:20231031T180000
-DTEND:20231031T183000
-DESCRIPTION:Catherine Jackson\, ahead of your appointment for Dental Check
- up\, we advise against any strenuous activity to ensure accurate readings.
-LOCATION:Block B - Building 5 - Floor 1 - Room 4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jason Glover DDS\, Follow-up from Surgery appointment. Don't forge
- t your medical history.
-DTSTART:20231110T080000
-DTEND:20231110T083000
-DESCRIPTION:Jason Glover DDS\, we are looking forward to seeing you for yo
- ur appointment regarding Follow-up from Surgery. It's important to bring y
- our medical history for reference.
-LOCATION:Block A - Building 2 - Floor 3 - Room 9
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Roberto Harris\, Follow-up from Surgery appointment. Avoid strenuo
- us activity.
-DTSTART:20231030T130000
-DTEND:20231030T133000
-DESCRIPTION:Roberto Harris\, ahead of your appointment for Follow-up from 
- Surgery\, we advise against any strenuous activity to ensure accurate read
- ings.
-LOCATION:Block C - Building 5 - Floor 4 - Room 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Christine Serrano\, Physical Therapy appointment. Bring recent tes
- t results.
-DTSTART:20231103T083000
-DTEND:20231103T090000
-DESCRIPTION:Christine Serrano\, your Physical Therapy appointment is sched
- uled. Please bring any recent test results if available.
-LOCATION:Block D - Building 5 - Floor 5 - Room 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:April Welch\, Vaccination appointment. Bring your insurance card.
-DTSTART:20231120T153000
-DTEND:20231120T160000
-DESCRIPTION:Hello April Welch\, your medical checkup for Vaccination is du
- e soon. Having your insurance card at hand will expedite the process.
-LOCATION:Block B - Building 1 - Floor 4 - Room 10
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jeremy Smith\, Follow-up from Surgery appointment. Bring relevant 
- documents.
-DTSTART:20231128T110000
-DTEND:20231128T113000
-DESCRIPTION:Dear Jeremy Smith\, for your upcoming appointment for Follow-u
- p from Surgery\, bringing relevant medical documents will help us provide 
- better care.
-LOCATION:Block A - Building 2 - Floor 6 - Room 9
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Olivia Allen\, Routine Checkup appointment. Note any symptoms.
-DTSTART:20231116T143000
-DTEND:20231116T150000
-DESCRIPTION:Olivia Allen\, during your next appointment for Routine Checku
- p\, it would be helpful if you could share any symptoms you've been experi
- encing lately.
-LOCATION:Block B - Building 3 - Floor 6 - Room 9
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Daniel Carlson\, Vaccination appointment. Be well-rested.
-DTSTART:20231115T123000
-DTEND:20231115T130000
-DESCRIPTION:Dear Daniel Carlson\, as your medical visit for Vaccination ap
- proaches\, we recommend you to be well-rested for the appointment.
-LOCATION:Block D - Building 4 - Floor 6 - Room 4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paul Wilson\, Vaccination appointment. Bring your ID.
-DTSTART:20231110T083000
-DTEND:20231110T090000
-DESCRIPTION:Paul Wilson\, your appointment for Vaccination is soon. Please
-  bring your ID for verification.
-LOCATION:Block D - Building 2 - Floor 2 - Room 8
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Andrea Reed\, Physical Therapy appointment. Be well-rested.
-DTSTART:20231110T173000
-DTEND:20231110T180000
-DESCRIPTION:Dear Andrea Reed\, as your medical visit for Physical Therapy 
- approaches\, we recommend you to be well-rested for the appointment.
-LOCATION:Block A - Building 5 - Floor 5 - Room 8
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Christopher Sparks\, Vaccination appointment. Bring dietary supple
- ments list.
-DTSTART:20231030T100000
-DTEND:20231030T103000
-DESCRIPTION:Christopher Sparks\, for your Vaccination appointment\, please
-  bring a list of any dietary supplements you are taking.
-LOCATION:Block A - Building 5 - Floor 4 - Room 4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jeffery Arnold\, Physical Therapy appointment. Bring your insuranc
- e card.
-DTSTART:20231107T150000
-DTEND:20231107T153000
-DESCRIPTION:Hello Jeffery Arnold\, your medical checkup for Physical Thera
- py is due soon. Having your insurance card at hand will expedite the proce
- ss.
-LOCATION:Block B - Building 4 - Floor 6 - Room 6
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Christy Phillips\, Physical Therapy appointment. Bring recent test
-  results.
-DTSTART:20231117T183000
-DTEND:20231117T190000
-DESCRIPTION:Christy Phillips\, your Physical Therapy appointment is schedu
- led. Please bring any recent test results if available.
-LOCATION:Block A - Building 4 - Floor 3 - Room 10
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Melissa Baxter\, Vaccination appointment. Bring relevant documents
- .
-DTSTART:20231124T153000
-DTEND:20231124T160000
-DESCRIPTION:Dear Melissa Baxter\, for your upcoming appointment for Vaccin
- ation\, bringing relevant medical documents will help us provide better ca
- re.
-LOCATION:Block B - Building 4 - Floor 5 - Room 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jennifer Schneider\, Eye Examination appointment. Bring medical de
- vices if any.
-DTSTART:20231127T120000
-DTEND:20231127T123000
-DESCRIPTION:Jennifer Schneider\, for your Eye Examination appointment\, if
-  you use any medical devices\, please bring them.
-LOCATION:Block C - Building 4 - Floor 6 - Room 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Samantha Durham\, Routine Checkup appointment. Inform us if resche
- duling.
-DTSTART:20231123T150000
-DTEND:20231123T153000
-DESCRIPTION:Samantha Durham\, your medical consultation for Routine Checku
- p is scheduled. If you need to reschedule\, please let us know in advance.
-LOCATION:Block A - Building 2 - Floor 3 - Room 3
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lisa Foley\, Audiology Testing appointment. Bring hearing aids if 
- needed.
-DTSTART:20231127T150000
-DTEND:20231127T153000
-DESCRIPTION:Lisa Foley\, for your Audiology Testing appointment\, if you u
- se hearing aids\, please bring them.
-LOCATION:Block C - Building 1 - Floor 1 - Room 6
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Daniel Walton\, Physical Therapy appointment. Inform us if resched
- uling.
-DTSTART:20231121T180000
-DTEND:20231121T183000
-DESCRIPTION:Daniel Walton\, your medical consultation for Physical Therapy
-  is scheduled. If you need to reschedule\, please let us know in advance.
-LOCATION:Block C - Building 2 - Floor 4 - Room 9
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gregory Harding\, Blood Pressure Monitoring appointment. Bring med
- ical devices if any.
-DTSTART:20231101T140000
-DTEND:20231101T143000
-DESCRIPTION:Gregory Harding\, for your Blood Pressure Monitoring appointme
- nt\, if you use any medical devices\, please bring them.
-LOCATION:Block D - Building 3 - Floor 2 - Room 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jacob Washington\, Blood Pressure Monitoring appointment. Bring a 
- family member if needed.
+SUMMARY:Dear Jesus Wright\, your appointment for Post-surgery Follow-up is
+  soon. Please bring your ID for verification.
 DTSTART:20231114T140000
 DTEND:20231114T143000
-DESCRIPTION:Jacob Washington\, for your Blood Pressure Monitoring appointm
- ent\, if you need to\, please bring a family member.
-LOCATION:Block A - Building 2 - Floor 6 - Room 5
+DESCRIPTION:We are looking forward to your appointment for Post-surgery Fo
+ llow-up\, Jesus Wright. Please bring your ID for verification. This is to 
+ ensure your safety and privacy.
+LOCATION:Block D - Building 2 - Floor 2 - Room 5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rachel Huynh\, Physical Therapy appointment. Avoid strenuous activ
- ity.
-DTSTART:20231122T103000
-DTEND:20231122T110000
-DESCRIPTION:Rachel Huynh\, ahead of your appointment for Physical Therapy\
- , we advise against any strenuous activity to ensure accurate readings.
-LOCATION:Block C - Building 5 - Floor 4 - Room 4
+SUMMARY:Hello Kayla Short\, during your next medical checkup for Blood Pre
+ ssure Monitoring\, please bring a list of medications you are currently ta
+ king.
+DTSTART:20231103T143000
+DTEND:20231103T150000
+DESCRIPTION:We are committed to your health\, Kayla Short. During your nex
+ t medical checkup for Blood Pressure Monitoring\, please bring a list of m
+ edications you are currently taking. This will help us understand your hea
+ lth better and provide the best care possible.
+LOCATION:Block D - Building 1 - Floor 5 - Room 8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:James Manning\, Vaccination appointment. Don't forget your medical
-  history.
-DTSTART:20231101T183000
-DTEND:20231101T190000
-DESCRIPTION:James Manning\, we are looking forward to seeing you for your 
- appointment regarding Vaccination. It's important to bring your medical hi
- story for reference.
-LOCATION:Block B - Building 1 - Floor 4 - Room 8
+SUMMARY:Dear Tammy Myers\, for your Vaccination appointment\, please bring
+  a list of any dietary supplements you are taking and their dosages.
+DTSTART:20231115T083000
+DTEND:20231115T090000
+DESCRIPTION:We are committed to your health\, Tammy Myers. For your Vaccin
+ ation appointment\, please bring a list of any dietary supplements you are
+  taking and their dosages. This will help us understand your health better
+  and provide the best care possible.
+LOCATION:Block B - Building 2 - Floor 4 - Room 9
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kristen Thomas\, Follow-up from Surgery appointment. Bring your ID
- .
-DTSTART:20231117T140000
-DTEND:20231117T143000
-DESCRIPTION:Kristen Thomas\, your appointment for Follow-up from Surgery i
- s soon. Please bring your ID for verification.
-LOCATION:Block B - Building 5 - Floor 3 - Room 2
+SUMMARY:Dear Adam Turner\, during your next appointment for Post-surgery F
+ ollow-up\, please share any symptoms you've been experiencing lately.
+DTSTART:20231128T090000
+DTEND:20231128T093000
+DESCRIPTION:We are committed to providing the best care\, Adam Turner. Dur
+ ing your upcoming appointment for Post-surgery Follow-up\, it would be hel
+ pful if you could share any symptoms you've been experiencing. This will h
+ elp us understand your health better.
+LOCATION:Block B - Building 3 - Floor 3 - Room 4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Michael Roberts\, Physical Therapy appointment. Note any symptoms.
-DTSTART:20231107T110000
-DTEND:20231107T113000
-DESCRIPTION:Michael Roberts\, during your next appointment for Physical Th
- erapy\, it would be helpful if you could share any symptoms you've been ex
- periencing lately.
-LOCATION:Block D - Building 5 - Floor 2 - Room 1
+SUMMARY:Dear Jason Reynolds\, for your upcoming appointment for Physical T
+ herapy Session\, please bring all relevant medical documents.
+DTSTART:20231109T080000
+DTEND:20231109T083000
+DESCRIPTION:Your upcoming appointment for Physical Therapy Session is impo
+ rtant to us\, Jason Reynolds. Bringing all relevant medical documents will
+  help us provide better and more personalized care.
+LOCATION:Block C - Building 1 - Floor 6 - Room 7
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ashley Garcia\, Follow-up from Surgery appointment. Bring medical 
- devices if any.
-DTSTART:20231113T160000
-DTEND:20231113T163000
-DESCRIPTION:Ashley Garcia\, for your Follow-up from Surgery appointment\, 
- if you use any medical devices\, please bring them.
-LOCATION:Block D - Building 2 - Floor 6 - Room 2
+SUMMARY:Dear Ricky Willis\, for your Blood Pressure Monitoring appointment
+ \, please bring a list of any allergies you have.
+DTSTART:20231114T080000
+DTEND:20231114T083000
+DESCRIPTION:We are committed to your health\, Ricky Willis. For your Blood
+  Pressure Monitoring appointment\, please bring a list of any allergies yo
+ u have. This will help us understand your health better and provide the be
+ st care possible.
+LOCATION:Block C - Building 4 - Floor 2 - Room 3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Zachary Nunez\, Vaccination appointment. Bring pharmacy contact in
- fo.
-DTSTART:20231127T183000
-DTEND:20231127T190000
-DESCRIPTION:Zachary Nunez\, for your Vaccination appointment\, please brin
- g your pharmacy contact info.
-LOCATION:Block A - Building 5 - Floor 1 - Room 2
+SUMMARY:Hello David Frazier\, your medical checkup for Post-surgery Follow
+ -up is due soon. Please bring your insurance card.
+DTSTART:20231114T083000
+DTEND:20231114T090000
+DESCRIPTION:We are looking forward to your medical checkup for Post-surger
+ y Follow-up\, David Frazier. Having your insurance card at hand will exped
+ ite the process and ensure a smooth experience.
+LOCATION:Block D - Building 4 - Floor 1 - Room 4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Stephen Williams\, Follow-up from Surgery appointment. Bring a fam
- ily member if needed.
-DTSTART:20231124T173000
-DTEND:20231124T180000
-DESCRIPTION:Stephen Williams\, for your Follow-up from Surgery appointment
- \, if you need to\, please bring a family member.
-LOCATION:Block C - Building 3 - Floor 3 - Room 4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Brent Cole DVM\, Eye Examination appointment. Wear comfortable clo
- thing.
-DTSTART:20231113T110000
-DTEND:20231113T113000
-DESCRIPTION:Brent Cole DVM\, for your Eye Examination appointment\, we rec
- ommend wearing comfortable clothing.
-LOCATION:Block B - Building 1 - Floor 1 - Room 6
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Natasha Smith\, Physical Therapy appointment. Bring pharmacy conta
- ct info.
-DTSTART:20231116T120000
-DTEND:20231116T123000
-DESCRIPTION:Natasha Smith\, for your Physical Therapy appointment\, please
-  bring your pharmacy contact info.
-LOCATION:Block B - Building 2 - Floor 4 - Room 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Michael Bowers DDS\, Audiology Testing appointment. Bring hearing 
- aids if needed.
-DTSTART:20231031T123000
-DTEND:20231031T130000
-DESCRIPTION:Michael Bowers DDS\, for your Audiology Testing appointment\, 
- if you use hearing aids\, please bring them.
-LOCATION:Block C - Building 1 - Floor 1 - Room 4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Austin Watson\, Eye Examination appointment. Avoid strenuous activ
- ity.
-DTSTART:20231030T100000
-DTEND:20231030T103000
-DESCRIPTION:Austin Watson\, ahead of your appointment for Eye Examination\
- , we advise against any strenuous activity to ensure accurate readings.
-LOCATION:Block D - Building 1 - Floor 3 - Room 9
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Crystal Bell\, Routine Checkup appointment. Bring recent test resu
- lts.
-DTSTART:20231117T100000
-DTEND:20231117T103000
-DESCRIPTION:Crystal Bell\, your Routine Checkup appointment is scheduled. 
- Please bring any recent test results if available.
-LOCATION:Block A - Building 1 - Floor 2 - Room 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sarah Howard\, Routine Checkup appointment. Wear comfortable cloth
- ing.
-DTSTART:20231108T183000
-DTEND:20231108T190000
-DESCRIPTION:Sarah Howard\, for your Routine Checkup appointment\, we recom
- mend wearing comfortable clothing.
-LOCATION:Block B - Building 2 - Floor 6 - Room 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shannon Mccoy\, Physical Therapy appointment. Avoid strenuous acti
- vity.
-DTSTART:20231108T140000
-DTEND:20231108T143000
-DESCRIPTION:Shannon Mccoy\, ahead of your appointment for Physical Therapy
- \, we advise against any strenuous activity to ensure accurate readings.
-LOCATION:Block A - Building 5 - Floor 3 - Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Timothy Walker\, Vaccination appointment. Bring relevant documents
- .
-DTSTART:20231109T120000
-DTEND:20231109T123000
-DESCRIPTION:Dear Timothy Walker\, for your upcoming appointment for Vaccin
- ation\, bringing relevant medical documents will help us provide better ca
- re.
-LOCATION:Block A - Building 2 - Floor 4 - Room 8
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Michelle Burns\, Allergy Testing appointment. Bring allergy list.
-DTSTART:20231124T103000
-DTEND:20231124T110000
-DESCRIPTION:Michelle Burns\, for your Allergy Testing appointment\, please
-  bring a list of any allergies you have.
-LOCATION:Block D - Building 3 - Floor 6 - Room 6
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teresa Lopez\, Dental Checkup appointment. Bring your ID.
-DTSTART:20231123T120000
-DTEND:20231123T123000
-DESCRIPTION:Teresa Lopez\, your appointment for Dental Checkup is soon. Pl
- ease bring your ID for verification.
-LOCATION:Block D - Building 5 - Floor 4 - Room 1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Crystal Bradford\, Dental Checkup appointment. Don't forget your m
- edical history.
-DTSTART:20231127T120000
-DTEND:20231127T123000
-DESCRIPTION:Crystal Bradford\, we are looking forward to seeing you for yo
- ur appointment regarding Dental Checkup. It's important to bring your medi
- cal history for reference.
+SUMMARY:Dear John Cox\, for your Physical Therapy Session appointment\, pl
+ ease bring a list of any symptoms you are currently experiencing.
+DTSTART:20231124T090000
+DTEND:20231124T093000
+DESCRIPTION:We are committed to your health\, John Cox. For your Physical 
+ Therapy Session appointment\, please bring a list of any symptoms you are 
+ currently experiencing. This will help us understand your health better an
+ d provide the best care possible.
 LOCATION:Block C - Building 3 - Floor 1 - Room 7
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Amanda Mcmahon\, Audiology Testing appointment. Bring hearing aids
-  if needed.
-DTSTART:20231123T083000
-DTEND:20231123T090000
-DESCRIPTION:Amanda Mcmahon\, for your Audiology Testing appointment\, if y
- ou use hearing aids\, please bring them.
-LOCATION:Block D - Building 2 - Floor 6 - Room 1
+SUMMARY:Dear Karla Cabrera\, as your medical visit for Cardiology Consulta
+ tion approaches\, we recommend you to be well-rested for the appointment.
+DTSTART:20231117T113000
+DTEND:20231117T120000
+DESCRIPTION:Your health is our priority\, Karla Cabrera. As your medical v
+ isit for Cardiology Consultation approaches\, we recommend you to be well-
+ rested. This will help us get the most accurate results during your visit.
+LOCATION:Block D - Building 4 - Floor 6 - Room 6
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mark King\, Routine Checkup appointment. Bring dietary supplements
-  list.
-DTSTART:20231113T083000
-DTEND:20231113T090000
-DESCRIPTION:Mark King\, for your Routine Checkup appointment\, please brin
- g a list of any dietary supplements you are taking.
-LOCATION:Block C - Building 4 - Floor 5 - Room 3
+SUMMARY:Hello Kevin Norris\, your medical checkup for Cardiology Consultat
+ ion is due soon. Please bring your insurance card.
+DTSTART:20231109T130000
+DTEND:20231109T133000
+DESCRIPTION:We are looking forward to your medical checkup for Cardiology 
+ Consultation\, Kevin Norris. Having your insurance card at hand will exped
+ ite the process and ensure a smooth experience.
+LOCATION:Block D - Building 4 - Floor 4 - Room 4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Daniel White\, Audiology Testing appointment. Bring hearing aids i
- f needed.
-DTSTART:20231128T183000
-DTEND:20231128T190000
-DESCRIPTION:Daniel White\, for your Audiology Testing appointment\, if you
-  use hearing aids\, please bring them.
-LOCATION:Block B - Building 2 - Floor 4 - Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sarah Harrington\, Physical Therapy appointment. Bring your insura
- nce card.
-DTSTART:20231030T080000
-DTEND:20231030T083000
-DESCRIPTION:Hello Sarah Harrington\, your medical checkup for Physical The
- rapy is due soon. Having your insurance card at hand will expedite the pro
- cess.
-LOCATION:Block D - Building 5 - Floor 5 - Room 2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Matthew Shelton\, Physical Therapy appointment. Wear comfortable c
- lothing.
-DTSTART:20231122T113000
-DTEND:20231122T120000
-DESCRIPTION:Matthew Shelton\, for your Physical Therapy appointment\, we r
- ecommend wearing comfortable clothing.
-LOCATION:Block A - Building 3 - Floor 3 - Room 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Danielle Parrish\, Vaccination appointment. Bring your ID.
-DTSTART:20231128T180000
-DTEND:20231128T183000
-DESCRIPTION:Danielle Parrish\, your appointment for Vaccination is soon. P
- lease bring your ID for verification.
-LOCATION:Block A - Building 5 - Floor 4 - Room 9
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dean Marshall\, Eye Examination appointment. Bring a family member
-  if needed.
-DTSTART:20231121T143000
-DTEND:20231121T150000
-DESCRIPTION:Dean Marshall\, for your Eye Examination appointment\, if you 
- need to\, please bring a family member.
-LOCATION:Block B - Building 4 - Floor 5 - Room 4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lori Powell\, Physical Therapy appointment. Bring relevant documen
- ts.
-DTSTART:20231116T133000
-DTEND:20231116T140000
-DESCRIPTION:Dear Lori Powell\, for your upcoming appointment for Physical 
- Therapy\, bringing relevant medical documents will help us provide better 
- care.
-LOCATION:Block B - Building 3 - Floor 6 - Room 3
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dennis Rivers\, Dental Checkup appointment. Avoid strenuous activi
- ty.
-DTSTART:20231103T113000
-DTEND:20231103T120000
-DESCRIPTION:Dennis Rivers\, ahead of your appointment for Dental Checkup\,
-  we advise against any strenuous activity to ensure accurate readings.
-LOCATION:Block D - Building 2 - Floor 6 - Room 8
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Aaron Alvarez\, Vaccination appointment. Bring your ID.
-DTSTART:20231101T160000
-DTEND:20231101T163000
-DESCRIPTION:Aaron Alvarez\, your appointment for Vaccination is soon. Plea
- se bring your ID for verification.
-LOCATION:Block A - Building 2 - Floor 5 - Room 8
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jacob Wilkinson\, Routine Checkup appointment. Inform us if resche
- duling.
-DTSTART:20231106T113000
-DTEND:20231106T120000
-DESCRIPTION:Jacob Wilkinson\, your medical consultation for Routine Checku
- p is scheduled. If you need to reschedule\, please let us know in advance.
-LOCATION:Block C - Building 5 - Floor 1 - Room 6
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jennifer Sanford\, Eye Examination appointment. Bring glasses/cont
- act lenses.
-DTSTART:20231113T090000
-DTEND:20231113T093000
-DESCRIPTION:Jennifer Sanford\, for your Eye Examination appointment\, if y
- ou wear glasses or contact lenses\, please bring them.
-LOCATION:Block D - Building 4 - Floor 6 - Room 10
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elizabeth Moreno\, Physical Therapy appointment. Bring medication 
- list.
-DTSTART:20231030T123000
-DTEND:20231030T130000
-DESCRIPTION:Hello Elizabeth Moreno\, during your next medical checkup for 
- Physical Therapy\, please bring a list of medications you are currently ta
- king for our reference.
+SUMMARY:Dear Christopher Pitts\, for your Vaccination appointment\, please
+  bring a list of any vaccinations you have had and their dates.
+DTSTART:20231123T133000
+DTEND:20231123T140000
+DESCRIPTION:We are looking forward to your Vaccination appointment\, Chris
+ topher Pitts. Please bring a list of any vaccinations you have had and the
+ ir dates. This will help us understand your health better and provide the 
+ best care possible.
 LOCATION:Block B - Building 2 - Floor 3 - Room 7
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Travis Burke\, Blood Pressure Monitoring appointment. Be there 15 
- minutes early.
-DTSTART:20231124T150000
-DTEND:20231124T153000
-DESCRIPTION:Travis Burke\, your appointment for Blood Pressure Monitoring 
- is confirmed. Arriving 15 minutes early helps us stay on schedule and serv
- e you better.
-LOCATION:Block D - Building 5 - Floor 1 - Room 7
+SUMMARY:Dear Nancy Oconnor\, for your Vaccination appointment\, please bri
+ ng a list of any past surgeries and their dates.
+DTSTART:20231103T103000
+DTEND:20231103T110000
+DESCRIPTION:We are looking forward to your Vaccination appointment\, Nancy
+  Oconnor. Please bring a list of any past surgeries and their dates. This 
+ will help us understand your health better and provide the best care possi
+ ble.
+LOCATION:Block B - Building 3 - Floor 2 - Room 4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Aaron Lewis\, CT Scan appointment. Remember to fast.
-DTSTART:20231108T140000
-DTEND:20231108T143000
-DESCRIPTION:Dear Aaron Lewis\, your appointment for CT Scan is coming up. 
- Remember\, fasting for 12 hours prior is crucial for accurate results.
-LOCATION:Block C - Building 2 - Floor 3 - Room 9
+SUMMARY:Dear Krista Cabrera\, for your upcoming appointment for Eye Examin
+ ation\, please bring all relevant medical documents.
+DTSTART:20231102T080000
+DTEND:20231102T083000
+DESCRIPTION:Your upcoming appointment for Eye Examination is important to 
+ us\, Krista Cabrera. Bringing all relevant medical documents will help us 
+ provide better and more personalized care.
+LOCATION:Block C - Building 2 - Floor 3 - Room 3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rebekah Aguilar\, Vaccination appointment. Bring recent test resul
- ts.
-DTSTART:20231108T130000
-DTEND:20231108T133000
-DESCRIPTION:Rebekah Aguilar\, your Vaccination appointment is scheduled. P
- lease bring any recent test results if available.
-LOCATION:Block C - Building 4 - Floor 4 - Room 6
+SUMMARY:Richard Whitney\, Neurology Consultation appointment. Bring a list
+  of your emergency contacts.
+DTSTART:20231117T180000
+DTEND:20231117T183000
+DESCRIPTION:Richard Whitney\, for your Neurology Consultation appointment\
+ , please bring a list of your emergency contacts.
+LOCATION:Block C - Building 3 - Floor 1 - Room 5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Donald Bishop\, Blood Pressure Monitoring appointment. Bring your 
- ID.
-DTSTART:20231115T180000
-DTEND:20231115T183000
-DESCRIPTION:Donald Bishop\, your appointment for Blood Pressure Monitoring
-  is soon. Please bring your ID for verification.
-LOCATION:Block B - Building 5 - Floor 4 - Room 4
+SUMMARY:Dear Tracy Summers\, your medical consultation for Blood Pressure 
+ Monitoring is scheduled. If you need to reschedule\, please inform us in a
+ dvance.
+DTSTART:20231101T140000
+DTEND:20231101T143000
+DESCRIPTION:We have scheduled your medical consultation for Blood Pressure
+  Monitoring\, Tracy Summers. If you need to reschedule\, please let us kno
+ w in advance so we can accommodate other patients.
+LOCATION:Block A - Building 3 - Floor 2 - Room 10
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:David Graham\, Vaccination appointment. Bring a family member if n
- eeded.
-DTSTART:20231115T130000
-DTEND:20231115T133000
-DESCRIPTION:David Graham\, for your Vaccination appointment\, if you need 
- to\, please bring a family member.
-LOCATION:Block B - Building 2 - Floor 5 - Room 8
+SUMMARY:Hello Christopher Sullivan\, your medical checkup for Dental Check
+ up is due soon. Please bring your insurance card.
+DTSTART:20231113T173000
+DTEND:20231113T180000
+DESCRIPTION:We are looking forward to your medical checkup for Dental Chec
+ kup\, Christopher Sullivan. Having your insurance card at hand will expedi
+ te the process and ensure a smooth experience.
+LOCATION:Block B - Building 5 - Floor 5 - Room 3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gregory Walker\, Physical Therapy appointment. Avoid strenuous act
- ivity.
-DTSTART:20231123T173000
-DTEND:20231123T180000
-DESCRIPTION:Gregory Walker\, ahead of your appointment for Physical Therap
- y\, we advise against any strenuous activity to ensure accurate readings.
-LOCATION:Block B - Building 3 - Floor 2 - Room 9
+SUMMARY:Dear Stephen Vasquez\, for your Post-surgery Follow-up appointment
+ \, if you use any medical devices\, please bring them.
+DTSTART:20231124T090000
+DTEND:20231124T093000
+DESCRIPTION:We are committed to your health\, Stephen Vasquez. For your Po
+ st-surgery Follow-up appointment\, if you use any medical devices\, please
+  bring them. This will help us provide the best care possible.
+LOCATION:Block A - Building 1 - Floor 6 - Room 10
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Jordan Stevens\, Vaccination appointment. Bring dietary supplement
- s list.
-DTSTART:20231107T173000
-DTEND:20231107T180000
-DESCRIPTION:Jordan Stevens\, for your Vaccination appointment\, please bri
- ng a list of any dietary supplements you are taking.
-LOCATION:Block C - Building 3 - Floor 5 - Room 6
+SUMMARY:Dear Mr. Sean Gomez\, for your Orthopedic Consultation appointment
+ \, please bring a list of any past surgeries and their dates.
+DTSTART:20231106T083000
+DTEND:20231106T090000
+DESCRIPTION:We are looking forward to your Orthopedic Consultation appoint
+ ment\, Mr. Sean Gomez. Please bring a list of any past surgeries and their
+  dates. This will help us understand your health better and provide the be
+ st care possible.
+LOCATION:Block D - Building 3 - Floor 3 - Room 9
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Robert Aguirre\, Routine Checkup appointment. Bring recent test re
- sults.
+SUMMARY:Dear Ronald Mcclure\, for your Eye Examination appointment\, if yo
+ u wear glasses or contact lenses\, please bring them.
 DTSTART:20231116T170000
 DTEND:20231116T173000
-DESCRIPTION:Robert Aguirre\, your Routine Checkup appointment is scheduled
- . Please bring any recent test results if available.
-LOCATION:Block C - Building 5 - Floor 4 - Room 2
+DESCRIPTION:We are looking forward to your Eye Examination appointment\, R
+ onald Mcclure. If you wear glasses or contact lenses\, please bring them a
+ long. This will help us provide the best care possible.
+LOCATION:Block A - Building 4 - Floor 1 - Room 6
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timothy Haas\, Eye Examination appointment. Bring medical devices 
- if any.
-DTSTART:20231122T180000
-DTEND:20231122T183000
-DESCRIPTION:Timothy Haas\, for your Eye Examination appointment\, if you u
- se any medical devices\, please bring them.
-LOCATION:Block A - Building 4 - Floor 3 - Room 4
+SUMMARY:Dear Thomas Burton\, for your Orthopedic Consultation appointment\
+ , please bring a list of any dietary supplements you are taking and their 
+ dosages.
+DTSTART:20231121T163000
+DTEND:20231121T170000
+DESCRIPTION:We are committed to your health\, Thomas Burton. For your Orth
+ opedic Consultation appointment\, please bring a list of any dietary suppl
+ ements you are taking and their dosages. This will help us understand your
+  health better and provide the best care possible.
+LOCATION:Block A - Building 3 - Floor 6 - Room 10
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Victoria Buchanan\, Eye Examination appointment. Bring glasses/con
- tact lenses.
-DTSTART:20231110T183000
-DTEND:20231110T190000
-DESCRIPTION:Victoria Buchanan\, for your Eye Examination appointment\, if 
- you wear glasses or contact lenses\, please bring them.
-LOCATION:Block B - Building 2 - Floor 5 - Room 3
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jessica Gonzalez\, Physical Therapy appointment. Wear comfortable 
- clothing.
-DTSTART:20231124T080000
-DTEND:20231124T083000
-DESCRIPTION:Jessica Gonzalez\, for your Physical Therapy appointment\, we 
- recommend wearing comfortable clothing.
-LOCATION:Block C - Building 1 - Floor 4 - Room 8
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jonathan Fisher\, Blood Pressure Monitoring appointment. Wear comf
- ortable clothing.
-DTSTART:20231120T183000
-DTEND:20231120T190000
-DESCRIPTION:Jonathan Fisher\, for your Blood Pressure Monitoring appointme
- nt\, we recommend wearing comfortable clothing.
-LOCATION:Block B - Building 4 - Floor 1 - Room 9
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Melissa Downs\, Routine Checkup appointment. Be there 15 minutes e
- arly.
-DTSTART:20231102T183000
-DTEND:20231102T190000
-DESCRIPTION:Melissa Downs\, your appointment for Routine Checkup is confir
- med. Arriving 15 minutes early helps us stay on schedule and serve you bet
- ter.
-LOCATION:Block C - Building 4 - Floor 2 - Room 8
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kimberly Ramirez\, MRI appointment. Remember to fast.
-DTSTART:20231031T150000
-DTEND:20231031T153000
-DESCRIPTION:Dear Kimberly Ramirez\, your appointment for MRI is coming up.
-  Remember\, fasting for 12 hours prior is crucial for accurate results.
-LOCATION:Block A - Building 5 - Floor 1 - Room 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Brandy Smith\, Blood Pressure Monitoring appointment. Bring releva
- nt documents.
-DTSTART:20231114T160000
-DTEND:20231114T163000
-DESCRIPTION:Dear Brandy Smith\, for your upcoming appointment for Blood Pr
- essure Monitoring\, bringing relevant medical documents will help us provi
- de better care.
-LOCATION:Block D - Building 5 - Floor 6 - Room 9
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hunter Lara\, Physical Therapy appointment. Bring relevant documen
- ts.
+SUMMARY:Dear Tanya Bradley\, during your next appointment for Blood Pressu
+ re Monitoring\, please share any symptoms you've been experiencing lately.
 DTSTART:20231107T150000
 DTEND:20231107T153000
-DESCRIPTION:Dear Hunter Lara\, for your upcoming appointment for Physical 
- Therapy\, bringing relevant medical documents will help us provide better 
- care.
-LOCATION:Block C - Building 1 - Floor 4 - Room 1
+DESCRIPTION:We are committed to providing the best care\, Tanya Bradley. D
+ uring your upcoming appointment for Blood Pressure Monitoring\, it would b
+ e helpful if you could share any symptoms you've been experiencing. This w
+ ill help us understand your health better.
+LOCATION:Block A - Building 1 - Floor 2 - Room 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Dr. Marcus Palmer\, for your Blood Pressure Monitoring appoin
+ tment\, please bring a list of any vaccinations you have had and their dat
+ es.
+DTSTART:20231128T130000
+DTEND:20231128T133000
+DESCRIPTION:We are looking forward to your Blood Pressure Monitoring appoi
+ ntment\, Dr. Marcus Palmer. Please bring a list of any vaccinations you ha
+ ve had and their dates. This will help us understand your health better an
+ d provide the best care possible.
+LOCATION:Block A - Building 5 - Floor 1 - Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Wendy French\, for your Audiology Testing appointment\, if yo
+ u use hearing aids\, please bring them.
+DTSTART:20231115T110000
+DTEND:20231115T113000
+DESCRIPTION:We are committed to your health\, Wendy French. For your Audio
+ logy Testing appointment\, if you use hearing aids\, please bring them. Th
+ is will help us provide the best care possible.
+LOCATION:Block A - Building 3 - Floor 4 - Room 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear David Gomez\, for your Post-surgery Follow-up appointment\, i
+ f you use any medical devices\, please bring them.
+DTSTART:20231124T183000
+DTEND:20231124T190000
+DESCRIPTION:We are committed to your health\, David Gomez. For your Post-s
+ urgery Follow-up appointment\, if you use any medical devices\, please bri
+ ng them. This will help us provide the best care possible.
+LOCATION:Block C - Building 5 - Floor 2 - Room 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Jeffery Mckenzie\, as your medical visit for Orthopedic Consu
+ ltation approaches\, we recommend you to be well-rested for the appointmen
+ t.
+DTSTART:20231106T100000
+DTEND:20231106T103000
+DESCRIPTION:Your health is our priority\, Jeffery Mckenzie. As your medica
+ l visit for Orthopedic Consultation approaches\, we recommend you to be we
+ ll-rested. This will help us get the most accurate results during your vis
+ it.
+LOCATION:Block A - Building 4 - Floor 1 - Room 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear David Sanders\, ahead of your appointment for Orthopedic Cons
+ ultation\, we advise against any strenuous activity to ensure accurate rea
+ dings.
+DTSTART:20231031T130000
+DTEND:20231031T133000
+DESCRIPTION:We are looking forward to your appointment for Orthopedic Cons
+ ultation\, David Sanders. To ensure accurate readings during your visit\, 
+ we advise against any strenuous activity a day before the appointment.
+LOCATION:Block C - Building 2 - Floor 3 - Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Michael Campbell\, your appointment for Blood Pressure Monito
+ ring is soon. Please bring your ID for verification.
+DTSTART:20231106T110000
+DTEND:20231106T113000
+DESCRIPTION:We are looking forward to your appointment for Blood Pressure 
+ Monitoring\, Michael Campbell. Please bring your ID for verification. This
+  is to ensure your safety and privacy.
+LOCATION:Block B - Building 4 - Floor 6 - Room 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reminder for Todd Nunez\, your CT Scan appointment is due. Please 
+ remember to fast for 12 hours prior to the appointment.
+DTSTART:20231109T180000
+DTEND:20231109T183000
+DESCRIPTION:Dear Todd Nunez\, your appointment for CT Scan is approaching.
+  Fasting for 12 hours prior to the appointment is crucial for accurate res
+ ults.
+LOCATION:Block A - Building 1 - Floor 3 - Room 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Douglas Hart\, for your Dental Checkup appointment\, please b
+ ring a list of any past and current treatments and their dates.
+DTSTART:20231113T180000
+DTEND:20231113T183000
+DESCRIPTION:We are committed to your health\, Douglas Hart. For your Denta
+ l Checkup appointment\, please bring a list of any past and current treatm
+ ents and their dates. This will help us understand your health better and 
+ provide the best care possible.
+LOCATION:Block D - Building 1 - Floor 1 - Room 9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear William Erickson Jr.\, for your Orthopedic Consultation appoi
+ ntment\, please bring your pharmacy contact info.
+DTSTART:20231120T083000
+DTEND:20231120T090000
+DESCRIPTION:We are looking forward to your Orthopedic Consultation appoint
+ ment\, William Erickson Jr.. Please bring your pharmacy contact info. This
+  will help us coordinate your care and ensure a smooth experience.
+LOCATION:Block B - Building 1 - Floor 4 - Room 10
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Donna Weber\, for your Dental Checkup appointment\, please br
+ ing a list of any medications you are currently taking and their dosages.
+DTSTART:20231107T153000
+DTEND:20231107T160000
+DESCRIPTION:We are looking forward to your Dental Checkup appointment\, Do
+ nna Weber. Please bring a list of any medications you are currently taking
+  and their dosages. This will help us understand your health better and pr
+ ovide the best care possible.
+LOCATION:Block A - Building 3 - Floor 5 - Room 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Tiffany Adams\, for your Orthopedic Consultation appointment\
+ , we recommend wearing comfortable clothing.
+DTSTART:20231103T123000
+DTEND:20231103T130000
+DESCRIPTION:We want you to be comfortable during your Orthopedic Consultat
+ ion appointment\, Tiffany Adams. We recommend wearing comfortable clothing
+  to ensure a smooth and pleasant experience.
+LOCATION:Block D - Building 4 - Floor 1 - Room 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Christy Perez\, for your Vaccination appointment\, we recomme
+ nd wearing comfortable clothing.
+DTSTART:20231127T123000
+DTEND:20231127T130000
+DESCRIPTION:We want you to be comfortable during your Vaccination appointm
+ ent\, Christy Perez. We recommend wearing comfortable clothing to ensure a
+  smooth and pleasant experience.
+LOCATION:Block B - Building 3 - Floor 1 - Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Joseph Fitzgerald\, for your Vaccination appointment\, please
+  bring a list of any medications you are currently taking and their dosage
+ s.
+DTSTART:20231124T103000
+DTEND:20231124T110000
+DESCRIPTION:We are looking forward to your Vaccination appointment\, Josep
+ h Fitzgerald. Please bring a list of any medications you are currently tak
+ ing and their dosages. This will help us understand your health better and
+  provide the best care possible.
+LOCATION:Block C - Building 1 - Floor 1 - Room 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hello Megan Barrett\, your medical checkup for Dental Checkup is d
+ ue soon. Please bring your insurance card.
+DTSTART:20231117T163000
+DTEND:20231117T170000
+DESCRIPTION:We are looking forward to your medical checkup for Dental Chec
+ kup\, Megan Barrett. Having your insurance card at hand will expedite the 
+ process and ensure a smooth experience.
+LOCATION:Block C - Building 3 - Floor 4 - Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear John Wells\, for your Neurology Consultation appointment\, if
+  you need to\, please bring a family member.
+DTSTART:20231101T140000
+DTEND:20231101T143000
+DESCRIPTION:We understand that medical appointments can be stressful\, Joh
+ n Wells. For your Neurology Consultation appointment\, if you need to\, pl
+ ease bring a family member. We are here to support you.
+LOCATION:Block B - Building 5 - Floor 5 - Room 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Tracey Luna\, for your Eye Examination appointment\, if you w
+ ear glasses or contact lenses\, please bring them.
+DTSTART:20231114T083000
+DTEND:20231114T090000
+DESCRIPTION:We are looking forward to your Eye Examination appointment\, T
+ racey Luna. If you wear glasses or contact lenses\, please bring them alon
+ g. This will help us provide the best care possible.
+LOCATION:Block B - Building 3 - Floor 5 - Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Kelly Wilson\, for your Blood Pressure Monitoring appointment
+ \, please bring a list of any symptoms you are currently experiencing.
+DTSTART:20231117T080000
+DTEND:20231117T083000
+DESCRIPTION:We are committed to your health\, Kelly Wilson. For your Blood
+  Pressure Monitoring appointment\, please bring a list of any symptoms you
+  are currently experiencing. This will help us understand your health bett
+ er and provide the best care possible.
+LOCATION:Block B - Building 3 - Floor 1 - Room 9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Kevin Mendoza\, for your Eye Examination appointment\, if you
+  wear glasses or contact lenses\, please bring them.
+DTSTART:20231102T180000
+DTEND:20231102T183000
+DESCRIPTION:We are looking forward to your Eye Examination appointment\, K
+ evin Mendoza. If you wear glasses or contact lenses\, please bring them al
+ ong. This will help us provide the best care possible.
+LOCATION:Block D - Building 5 - Floor 2 - Room 6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Kristina Hawkins\, your appointment for Physical Therapy Sess
+ ion is confirmed. Please arrive 15 minutes early.
+DTSTART:20231123T130000
+DTEND:20231123T133000
+DESCRIPTION:We have scheduled your appointment for Physical Therapy Sessio
+ n\, Kristina Hawkins. Arriving 15 minutes early will help us serve you bet
+ ter and maintain our schedule.
+LOCATION:Block C - Building 3 - Floor 5 - Room 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Jeffrey Daugherty\, your medical consultation for Cardiology 
+ Consultation is scheduled. If you need to reschedule\, please inform us in
+  advance.
+DTSTART:20231031T160000
+DTEND:20231031T163000
+DESCRIPTION:We have scheduled your medical consultation for Cardiology Con
+ sultation\, Jeffrey Daugherty. If you need to reschedule\, please let us k
+ now in advance so we can accommodate other patients.
+LOCATION:Block C - Building 5 - Floor 6 - Room 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Derek Hamilton\, for your Dental Checkup appointment\, please
+  bring a list of any symptoms you are currently experiencing.
+DTSTART:20231127T133000
+DTEND:20231127T140000
+DESCRIPTION:We are committed to your health\, Derek Hamilton. For your Den
+ tal Checkup appointment\, please bring a list of any symptoms you are curr
+ ently experiencing. This will help us understand your health better and pr
+ ovide the best care possible.
+LOCATION:Block A - Building 5 - Floor 2 - Room 6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear April Trujillo\, for your Post-surgery Follow-up appointment\
+ , please bring a list of any vaccinations you have had and their dates.
+DTSTART:20231103T103000
+DTEND:20231103T110000
+DESCRIPTION:We are looking forward to your Post-surgery Follow-up appointm
+ ent\, April Trujillo. Please bring a list of any vaccinations you have had
+  and their dates. This will help us understand your health better and prov
+ ide the best care possible.
+LOCATION:Block A - Building 5 - Floor 3 - Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reminder for Christian Atkins\, your Ultrasound appointment is due
+ . Please remember to fast for 12 hours prior to the appointment.
+DTSTART:20231108T150000
+DTEND:20231108T153000
+DESCRIPTION:Dear Christian Atkins\, your appointment for Ultrasound is app
+ roaching. Fasting for 12 hours prior to the appointment is crucial for acc
+ urate results.
+LOCATION:Block C - Building 5 - Floor 5 - Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Brenda Washington\, for your Routine Checkup appointment\, we
+  recommend wearing comfortable clothing.
+DTSTART:20231113T183000
+DTEND:20231113T190000
+DESCRIPTION:We want you to be comfortable during your Routine Checkup appo
+ intment\, Brenda Washington. We recommend wearing comfortable clothing to 
+ ensure a smooth and pleasant experience.
+LOCATION:Block C - Building 4 - Floor 4 - Room 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Sara Smith\, for your Audiology Testing appointment\, if you 
+ use hearing aids\, please bring them.
+DTSTART:20231123T153000
+DTEND:20231123T160000
+DESCRIPTION:We are committed to your health\, Sara Smith. For your Audiolo
+ gy Testing appointment\, if you use hearing aids\, please bring them. This
+  will help us provide the best care possible.
+LOCATION:Block D - Building 5 - Floor 6 - Room 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Lisa Nash MD\, for your Cardiology Consultation appointment\,
+  if you use any medical devices\, please bring them.
+DTSTART:20231106T133000
+DTEND:20231106T140000
+DESCRIPTION:We are committed to your health\, Lisa Nash MD. For your Cardi
+ ology Consultation appointment\, if you use any medical devices\, please b
+ ring them. This will help us provide the best care possible.
+LOCATION:Block C - Building 2 - Floor 2 - Room 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Dawn Charles\, during your next appointment for Post-surgery 
+ Follow-up\, please share any symptoms you've been experiencing lately.
+DTSTART:20231101T170000
+DTEND:20231101T173000
+DESCRIPTION:We are committed to providing the best care\, Dawn Charles. Du
+ ring your upcoming appointment for Post-surgery Follow-up\, it would be he
+ lpful if you could share any symptoms you've been experiencing. This will 
+ help us understand your health better.
+LOCATION:Block A - Building 5 - Floor 6 - Room 10
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hello Jennifer Wright\, your medical checkup for Neurology Consult
+ ation is due soon. Please bring your insurance card.
+DTSTART:20231110T080000
+DTEND:20231110T083000
+DESCRIPTION:We are looking forward to your medical checkup for Neurology C
+ onsultation\, Jennifer Wright. Having your insurance card at hand will exp
+ edite the process and ensure a smooth experience.
+LOCATION:Block D - Building 1 - Floor 4 - Room 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Maureen Parsons\, for your Vaccination appointment\, please b
+ ring a list of any dietary supplements you are taking.
+DTSTART:20231127T110000
+DTEND:20231127T113000
+DESCRIPTION:We are looking forward to your Vaccination appointment\, Maure
+ en Parsons. Please bring a list of any dietary supplements you are taking.
+  This will help us understand your health better and provide the best care
+  possible.
+LOCATION:Block B - Building 4 - Floor 2 - Room 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Madison Gaines\, your medical consultation for Post-surgery F
+ ollow-up is scheduled. If you need to reschedule\, please inform us in adv
+ ance.
+DTSTART:20231128T170000
+DTEND:20231128T173000
+DESCRIPTION:We have scheduled your medical consultation for Post-surgery F
+ ollow-up\, Madison Gaines. If you need to reschedule\, please let us know 
+ in advance so we can accommodate other patients.
+LOCATION:Block C - Building 2 - Floor 6 - Room 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Jimmy Wang\, your Cardiology Consultation appointment is sche
+ duled. Please bring any recent test results if available.
+DTSTART:20231120T100000
+DTEND:20231120T103000
+DESCRIPTION:We have scheduled your appointment for Cardiology Consultation
+ \, Jimmy Wang. If you have any recent test results\, please bring them alo
+ ng. This will help us provide the best care possible.
+LOCATION:Block D - Building 2 - Floor 6 - Room 9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Andrew Walker\, for your Eye Examination appointment\, please
+  bring a list of any medications you are currently taking and their dosage
+ s.
+DTSTART:20231121T173000
+DTEND:20231121T180000
+DESCRIPTION:We are looking forward to your Eye Examination appointment\, A
+ ndrew Walker. Please bring a list of any medications you are currently tak
+ ing and their dosages. This will help us understand your health better and
+  provide the best care possible.
+LOCATION:Block D - Building 4 - Floor 3 - Room 9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Rhonda Murray\, for your Eye Examination appointment\, if you
+  use any medical devices\, please bring them.
+DTSTART:20231108T103000
+DTEND:20231108T110000
+DESCRIPTION:We are committed to your health\, Rhonda Murray. For your Eye 
+ Examination appointment\, if you use any medical devices\, please bring th
+ em. This will help us provide the best care possible.
+LOCATION:Block B - Building 1 - Floor 1 - Room 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Julie Chavez\, your medical consultation for Neurology Consul
+ tation is scheduled. If you need to reschedule\, please inform us in advan
+ ce.
+DTSTART:20231115T113000
+DTEND:20231115T120000
+DESCRIPTION:We have scheduled your medical consultation for Neurology Cons
+ ultation\, Julie Chavez. If you need to reschedule\, please let us know in
+  advance so we can accommodate other patients.
+LOCATION:Block B - Building 4 - Floor 5 - Room 10
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Michelle Gamble\, for your Routine Checkup appointment\, if y
+ ou use any medical devices\, please bring them.
+DTSTART:20231124T133000
+DTEND:20231124T140000
+DESCRIPTION:We are committed to your health\, Michelle Gamble. For your Ro
+ utine Checkup appointment\, if you use any medical devices\, please bring 
+ them. This will help us provide the best care possible.
+LOCATION:Block B - Building 5 - Floor 2 - Room 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Tiffany Powell\, for your Neurology Consultation appointment\
+ , please bring a list of any medications you are currently taking and thei
+ r dosages.
+DTSTART:20231122T093000
+DTEND:20231122T100000
+DESCRIPTION:We are looking forward to your Neurology Consultation appointm
+ ent\, Tiffany Powell. Please bring a list of any medications you are curre
+ ntly taking and their dosages. This will help us understand your health be
+ tter and provide the best care possible.
+LOCATION:Block B - Building 3 - Floor 3 - Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Taylor Savage\, your appointment for Cardiology Consultation 
+ is coming up. Please remember to bring your medical history.
+DTSTART:20231122T143000
+DTEND:20231122T150000
+DESCRIPTION:We are eagerly waiting to see you\, Taylor Savage\, for your u
+ pcoming appointment regarding Cardiology Consultation. Your medical histor
+ y is crucial for us to provide the best care possible.
+LOCATION:Block C - Building 5 - Floor 5 - Room 9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Mrs. Sally Moore\, for your Cardiology Consultation appointme
+ nt\, please bring a list of any medications you are currently taking and t
+ heir dosages.
+DTSTART:20231108T173000
+DTEND:20231108T180000
+DESCRIPTION:We are looking forward to your Cardiology Consultation appoint
+ ment\, Mrs. Sally Moore. Please bring a list of any medications you are cu
+ rrently taking and their dosages. This will help us understand your health
+  better and provide the best care possible.
+LOCATION:Block C - Building 4 - Floor 3 - Room 6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Andrea Hatfield\, for your Audiology Testing appointment\, if
+  you use hearing aids\, please bring them.
+DTSTART:20231107T170000
+DTEND:20231107T173000
+DESCRIPTION:We are committed to your health\, Andrea Hatfield. For your Au
+ diology Testing appointment\, if you use hearing aids\, please bring them.
+  This will help us provide the best care possible.
+LOCATION:Block D - Building 5 - Floor 4 - Room 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear William Barrera\, for your Post-surgery Follow-up appointment
+ \, please bring a list of any dietary supplements you are taking.
+DTSTART:20231120T123000
+DTEND:20231120T130000
+DESCRIPTION:We are looking forward to your Post-surgery Follow-up appointm
+ ent\, William Barrera. Please bring a list of any dietary supplements you 
+ are taking. This will help us understand your health better and provide th
+ e best care possible.
+LOCATION:Block D - Building 3 - Floor 2 - Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Brian Butler\, for your upcoming appointment for Routine Chec
+ kup\, please bring all relevant medical documents.
+DTSTART:20231101T150000
+DTEND:20231101T153000
+DESCRIPTION:Your upcoming appointment for Routine Checkup is important to 
+ us\, Brian Butler. Bringing all relevant medical documents will help us pr
+ ovide better and more personalized care.
+LOCATION:Block B - Building 3 - Floor 5 - Room 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Donald Hansen\, for your Orthopedic Consultation appointment\
+ , please bring a list of any medications you are currently taking and thei
+ r dosages.
+DTSTART:20231128T173000
+DTEND:20231128T180000
+DESCRIPTION:We are looking forward to your Orthopedic Consultation appoint
+ ment\, Donald Hansen. Please bring a list of any medications you are curre
+ ntly taking and their dosages. This will help us understand your health be
+ tter and provide the best care possible.
+LOCATION:Block B - Building 4 - Floor 2 - Room 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Lucas Snyder\, for your Physical Therapy Session appointment\
+ , please bring a list of any vaccinations you have had and their dates.
+DTSTART:20231116T150000
+DTEND:20231116T153000
+DESCRIPTION:We are looking forward to your Physical Therapy Session appoin
+ tment\, Lucas Snyder. Please bring a list of any vaccinations you have had
+  and their dates. This will help us understand your health better and prov
+ ide the best care possible.
+LOCATION:Block B - Building 4 - Floor 2 - Room 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Tina Fisher\, for your Orthopedic Consultation appointment\, 
+ please bring a list of any past and current medical conditions.
+DTSTART:20231116T120000
+DTEND:20231116T123000
+DESCRIPTION:We are looking forward to your Orthopedic Consultation appoint
+ ment\, Tina Fisher. Please bring a list of any past and current medical co
+ nditions. This will help us understand your health better and provide the 
+ best care possible.
+LOCATION:Block C - Building 2 - Floor 6 - Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Michele Atkins\, Dental Checkup appointment. Bring a list of your 
+ emergency contacts.
+DTSTART:20231108T090000
+DTEND:20231108T093000
+DESCRIPTION:Michele Atkins\, for your Dental Checkup appointment\, please 
+ bring a list of your emergency contacts.
+LOCATION:Block B - Building 5 - Floor 1 - Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Steven Parrish\, for your Orthopedic Consultation appointment
+ \, if you use any medical devices\, please bring them.
+DTSTART:20231108T080000
+DTEND:20231108T083000
+DESCRIPTION:We are committed to your health\, Steven Parrish. For your Ort
+ hopedic Consultation appointment\, if you use any medical devices\, please
+  bring them. This will help us provide the best care possible.
+LOCATION:Block D - Building 3 - Floor 4 - Room 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Ashley Wong\, your appointment for Post-surgery Follow-up is 
+ soon. Please bring your ID for verification.
+DTSTART:20231114T080000
+DTEND:20231114T083000
+DESCRIPTION:We are looking forward to your appointment for Post-surgery Fo
+ llow-up\, Ashley Wong. Please bring your ID for verification. This is to e
+ nsure your safety and privacy.
+LOCATION:Block D - Building 1 - Floor 1 - Room 9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Robert Case\, for your Eye Examination appointment\, if you w
+ ear glasses or contact lenses\, please bring them.
+DTSTART:20231113T083000
+DTEND:20231113T090000
+DESCRIPTION:We are looking forward to your Eye Examination appointment\, R
+ obert Case. If you wear glasses or contact lenses\, please bring them alon
+ g. This will help us provide the best care possible.
+LOCATION:Block A - Building 3 - Floor 2 - Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Chris Taylor\, your appointment for Cardiology Consultation i
+ s coming up. Please remember to bring your medical history.
+DTSTART:20231127T180000
+DTEND:20231127T183000
+DESCRIPTION:We are eagerly waiting to see you\, Chris Taylor\, for your up
+ coming appointment regarding Cardiology Consultation. Your medical history
+  is crucial for us to provide the best care possible.
+LOCATION:Block B - Building 3 - Floor 5 - Room 6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Dana Kaufman\, for your Post-surgery Follow-up appointment\, 
+ please bring a list of any vaccinations you have had and their dates.
+DTSTART:20231120T120000
+DTEND:20231120T123000
+DESCRIPTION:We are looking forward to your Post-surgery Follow-up appointm
+ ent\, Dana Kaufman. Please bring a list of any vaccinations you have had a
+ nd their dates. This will help us understand your health better and provid
+ e the best care possible.
+LOCATION:Block C - Building 3 - Floor 5 - Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear James Perez\, for your Audiology Testing appointment\, if you
+  use hearing aids\, please bring them.
+DTSTART:20231117T180000
+DTEND:20231117T183000
+DESCRIPTION:We are committed to your health\, James Perez. For your Audiol
+ ogy Testing appointment\, if you use hearing aids\, please bring them. Thi
+ s will help us provide the best care possible.
+LOCATION:Block A - Building 1 - Floor 5 - Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reminder for Kevin Zhang\, your Glucose Tolerance Test appointment
+  is due. Please remember to fast for 12 hours prior to the appointment.
+DTSTART:20231116T120000
+DTEND:20231116T123000
+DESCRIPTION:Dear Kevin Zhang\, your appointment for Glucose Tolerance Test
+  is approaching. Fasting for 12 hours prior to the appointment is crucial 
+ for accurate results.
+LOCATION:Block B - Building 5 - Floor 6 - Room 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Ronald Koch\, for your Eye Examination appointment\, please b
+ ring a list of any past surgeries and their dates.
+DTSTART:20231128T180000
+DTEND:20231128T183000
+DESCRIPTION:We are looking forward to your Eye Examination appointment\, R
+ onald Koch. Please bring a list of any past surgeries and their dates. Thi
+ s will help us understand your health better and provide the best care pos
+ sible.
+LOCATION:Block D - Building 4 - Floor 6 - Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Cynthia Ortega\, your appointment for Post-surgery Follow-up 
+ is coming up. Please remember to bring your medical history.
+DTSTART:20231107T090000
+DTEND:20231107T093000
+DESCRIPTION:We are eagerly waiting to see you\, Cynthia Ortega\, for your 
+ upcoming appointment regarding Post-surgery Follow-up. Your medical histor
+ y is crucial for us to provide the best care possible.
+LOCATION:Block D - Building 3 - Floor 4 - Room 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Joshua Moreno\, for your Vaccination appointment\, please bri
+ ng a list of any past surgeries and their dates.
+DTSTART:20231109T153000
+DTEND:20231109T160000
+DESCRIPTION:We are looking forward to your Vaccination appointment\, Joshu
+ a Moreno. Please bring a list of any past surgeries and their dates. This 
+ will help us understand your health better and provide the best care possi
+ ble.
+LOCATION:Block D - Building 3 - Floor 3 - Room 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Seth Reed\, for your Vaccination appointment\, please bring a
+  list of any past and current treatments and their dates.
+DTSTART:20231106T180000
+DTEND:20231106T183000
+DESCRIPTION:We are committed to your health\, Seth Reed. For your Vaccinat
+ ion appointment\, please bring a list of any past and current treatments a
+ nd their dates. This will help us understand your health better and provid
+ e the best care possible.
+LOCATION:Block A - Building 5 - Floor 3 - Room 10
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Tonya Wheeler\, for your Allergy Testing appointment\, please
+  bring a list of any allergies you have.
+DTSTART:20231116T170000
+DTEND:20231116T173000
+DESCRIPTION:We are committed to your health\, Tonya Wheeler. For your Alle
+ rgy Testing appointment\, please bring a list of any allergies you have. T
+ his will help us provide the best care possible.
+LOCATION:Block D - Building 4 - Floor 5 - Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Joseph Hughes\, for your Eye Examination appointment\, if you
+  wear glasses or contact lenses\, please bring them.
+DTSTART:20231103T173000
+DTEND:20231103T180000
+DESCRIPTION:We are looking forward to your Eye Examination appointment\, J
+ oseph Hughes. If you wear glasses or contact lenses\, please bring them al
+ ong. This will help us provide the best care possible.
+LOCATION:Block C - Building 3 - Floor 4 - Room 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Crystal Henderson\, for your Neurology Consultation appointme
+ nt\, please bring a list of any dietary supplements you are taking and the
+ ir dosages.
+DTSTART:20231108T080000
+DTEND:20231108T083000
+DESCRIPTION:We are committed to your health\, Crystal Henderson. For your 
+ Neurology Consultation appointment\, please bring a list of any dietary su
+ pplements you are taking and their dosages. This will help us understand y
+ our health better and provide the best care possible.
+LOCATION:Block C - Building 3 - Floor 1 - Room 6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Michael Young\, for your Audiology Testing appointment\, if y
+ ou use hearing aids\, please bring them.
+DTSTART:20231128T153000
+DTEND:20231128T160000
+DESCRIPTION:We are committed to your health\, Michael Young. For your Audi
+ ology Testing appointment\, if you use hearing aids\, please bring them. T
+ his will help us provide the best care possible.
+LOCATION:Block B - Building 5 - Floor 4 - Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Justin Nelson\, for your Eye Examination appointment\, we rec
+ ommend wearing comfortable clothing.
+DTSTART:20231110T163000
+DTEND:20231110T170000
+DESCRIPTION:We want you to be comfortable during your Eye Examination appo
+ intment\, Justin Nelson. We recommend wearing comfortable clothing to ensu
+ re a smooth and pleasant experience.
+LOCATION:Block D - Building 3 - Floor 3 - Room 9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Cynthia Gilbert\, as your medical visit for Routine Checkup a
+ pproaches\, we recommend you to be well-rested for the appointment.
+DTSTART:20231109T143000
+DTEND:20231109T150000
+DESCRIPTION:Your health is our priority\, Cynthia Gilbert. As your medical
+  visit for Routine Checkup approaches\, we recommend you to be well-rested
+ . This will help us get the most accurate results during your visit.
+LOCATION:Block A - Building 3 - Floor 4 - Room 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Austin Wheeler\, for your Allergy Testing appointment\, pleas
+ e bring a list of any allergies you have.
+DTSTART:20231113T140000
+DTEND:20231113T143000
+DESCRIPTION:We are committed to your health\, Austin Wheeler. For your All
+ ergy Testing appointment\, please bring a list of any allergies you have. 
+ This will help us provide the best care possible.
+LOCATION:Block B - Building 2 - Floor 4 - Room 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frances Pratt\, Blood Pressure Monitoring appointment. Bring a lis
+ t of your emergency contacts.
+DTSTART:20231107T120000
+DTEND:20231107T123000
+DESCRIPTION:Frances Pratt\, for your Blood Pressure Monitoring appointment
+ \, please bring a list of your emergency contacts.
+LOCATION:Block A - Building 3 - Floor 6 - Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Anna Benson\, for your Post-surgery Follow-up appointment\, p
+ lease bring your pharmacy contact info.
+DTSTART:20231114T093000
+DTEND:20231114T100000
+DESCRIPTION:We are looking forward to your Post-surgery Follow-up appointm
+ ent\, Anna Benson. Please bring your pharmacy contact info. This will help
+  us coordinate your care and ensure a smooth experience.
+LOCATION:Block A - Building 1 - Floor 2 - Room 6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Mark Thomas\, for your Dental Checkup appointment\, please br
+ ing a list of any symptoms you are currently experiencing.
+DTSTART:20231116T150000
+DTEND:20231116T153000
+DESCRIPTION:We are committed to your health\, Mark Thomas. For your Dental
+  Checkup appointment\, please bring a list of any symptoms you are current
+ ly experiencing. This will help us understand your health better and provi
+ de the best care possible.
+LOCATION:Block A - Building 5 - Floor 1 - Room 8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Erika Wilson\, your appointment for Eye Examination is soon. 
+ Please bring your ID for verification.
+DTSTART:20231030T140000
+DTEND:20231030T143000
+DESCRIPTION:We are looking forward to your appointment for Eye Examination
+ \, Erika Wilson. Please bring your ID for verification. This is to ensure 
+ your safety and privacy.
+LOCATION:Block C - Building 1 - Floor 4 - Room 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Yesenia Anderson\, for your Orthopedic Consultation appointme
+ nt\, if you use any medical devices\, please bring them.
+DTSTART:20231110T133000
+DTEND:20231110T140000
+DESCRIPTION:We are committed to your health\, Yesenia Anderson. For your O
+ rthopedic Consultation appointment\, if you use any medical devices\, plea
+ se bring them. This will help us provide the best care possible.
+LOCATION:Block A - Building 5 - Floor 2 - Room 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Matthew Thornton\, for your Neurology Consultation appointmen
+ t\, please bring a list of any symptoms you are currently experiencing.
+DTSTART:20231108T143000
+DTEND:20231108T150000
+DESCRIPTION:We are committed to your health\, Matthew Thornton. For your N
+ eurology Consultation appointment\, please bring a list of any symptoms yo
+ u are currently experiencing. This will help us understand your health bet
+ ter and provide the best care possible.
+LOCATION:Block B - Building 4 - Floor 6 - Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reminder for Justin Lee\, your Ultrasound appointment is due. Plea
+ se remember to fast for 12 hours prior to the appointment.
+DTSTART:20231110T080000
+DTEND:20231110T083000
+DESCRIPTION:Dear Justin Lee\, your appointment for Ultrasound is approachi
+ ng. Fasting for 12 hours prior to the appointment is crucial for accurate 
+ results.
+LOCATION:Block A - Building 2 - Floor 4 - Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hello Sarah Tran\, during your next medical checkup for Eye Examin
+ ation\, please bring a list of medications you are currently taking.
+DTSTART:20231114T123000
+DTEND:20231114T130000
+DESCRIPTION:We are committed to your health\, Sarah Tran. During your next
+  medical checkup for Eye Examination\, please bring a list of medications 
+ you are currently taking. This will help us understand your health better 
+ and provide the best care possible.
+LOCATION:Block A - Building 4 - Floor 3 - Room 1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hello Karen Miller\, your medical checkup for Routine Checkup is d
+ ue soon. Please bring your insurance card.
+DTSTART:20231109T140000
+DTEND:20231109T143000
+DESCRIPTION:We are looking forward to your medical checkup for Routine Che
+ ckup\, Karen Miller. Having your insurance card at hand will expedite the 
+ process and ensure a smooth experience.
+LOCATION:Block D - Building 2 - Floor 5 - Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Sharon Lawrence\, for your Cardiology Consultation appointmen
+ t\, please bring a list of your family's medical history.
+DTSTART:20231103T173000
+DTEND:20231103T180000
+DESCRIPTION:We are committed to your health\, Sharon Lawrence. For your Ca
+ rdiology Consultation appointment\, please bring a list of your family's m
+ edical history. This will help us understand your health better and provid
+ e the best care possible.
+LOCATION:Block B - Building 3 - Floor 4 - Room 2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Victoria Phillips\, your medical consultation for Vaccination
+  is scheduled. If you need to reschedule\, please inform us in advance.
+DTSTART:20231109T133000
+DTEND:20231109T140000
+DESCRIPTION:We have scheduled your medical consultation for Vaccination\, 
+ Victoria Phillips. If you need to reschedule\, please let us know in advan
+ ce so we can accommodate other patients.
+LOCATION:Block D - Building 2 - Floor 5 - Room 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Marcus Stewart\, your appointment for Physical Therapy Sessio
+ n is coming up. Please remember to bring your medical history.
+DTSTART:20231117T163000
+DTEND:20231117T170000
+DESCRIPTION:We are eagerly waiting to see you\, Marcus Stewart\, for your 
+ upcoming appointment regarding Physical Therapy Session. Your medical hist
+ ory is crucial for us to provide the best care possible.
+LOCATION:Block C - Building 1 - Floor 3 - Room 10
 END:VEVENT
 END:VCALENDAR
