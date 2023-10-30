@@ -1,3 +1,5 @@
+import logging
+
 from icalendar import Event, Calendar
 from datetime import datetime, timedelta
 from faker import Faker
@@ -7,6 +9,9 @@ from templates.templates import TEMPLATES, LOCATIONS_AND_STAFF
 
 # Initialize faker
 fake = Faker()
+
+# Initialize logging
+logging.basicConfig(level=logging.ERROR)
 
 def generate_appointment():
     # Generate random patient name
@@ -34,19 +39,19 @@ def generate_appointment():
     # Select only blocks that have at least one "staff" who can do the same "tasks" as "reason"
     suitable_blocks = []
     for block, details in LOCATIONS_AND_STAFF.items():
-        print(f"Checking block: {block}")
+        logging.debug(f"Checking block: {block}")
         for staff in details["staff"]:
-            print(f"Checking staff: {staff}")
+            logging.debug(f"Checking staff: {staff}")
             tasks = staff["tasks"]
             if reason in tasks:
-                print(f"Found suitable staff: {staff} in block: {block}")
+                logging.debug(f"Found suitable staff: {staff} in block: {block}")
                 suitable_blocks.append(block)
                 break
     if not suitable_blocks:
         raise ValueError(f"No suitable block found for reason: {reason}")
-    print(f"Suitable blocks: {suitable_blocks}")
+    logging.debug(f"Suitable blocks: {suitable_blocks}")
     block = random.choice(suitable_blocks)
-    print(f"Selected block: {block}")
+    logging.debug(f"Selected block: {block}")
     building = LOCATIONS_AND_STAFF[block]["building"]
     floor = LOCATIONS_AND_STAFF[block]["floor"]
     room = random.choice(LOCATIONS_AND_STAFF[block]["rooms"])
@@ -56,7 +61,7 @@ def generate_appointment():
     staff_members = []
     for staff in LOCATIONS_AND_STAFF[block]["staff"]:
         tasks = staff["tasks"]
-        print(f"Comparing {reason} with {tasks}")
+        logging.debug(f"Comparing {reason} with {tasks}")
         if reason in tasks:
             staff_members.append(staff)
     if not staff_members:
@@ -71,7 +76,7 @@ def generate_appointment():
     event.add('dtend', end_time)
     event.add('description', template["description"].format(patient_name=patient_name, reason=reason))
     event.add('location', location)
-    event.add('attendee', doctor)
+    event.add('attendee', patient_name)
     event.add('organizer', doctor)  # Add the staff member as the organizer of the event
     
     return event
@@ -103,7 +108,8 @@ def main():
     cal = generate_calendar(args.num_appointments)
     save_calendar_to_file(cal, args.filename)
 
-    print(f"Generated {args.filename} with {args.num_appointments} mock medical appointments.")
+    logging.debug(f"Generated {args.filename} with {args.num_appointments} mock medical appointments.")
 
 if __name__ == "__main__":
     main()
+
