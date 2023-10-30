@@ -149,6 +149,126 @@ TEMPLATES = {
         "description": "We are looking forward to your {reason} appointment, {patient_name}. Please bring a list of your emergency contacts. This will help us ensure your safety during your visit.",
         "summary": "{patient_name}, {reason} appointment. Bring a list of your emergency contacts.",
         "description": "{patient_name}, for your {reason} appointment, please bring a list of your emergency contacts.",
-        "reasons": ["Routine Checkup", "Follow-up from Surgery", "Blood Pressure Monitoring", "Physical Therapy", "Vaccination", "Dental Checkup", "Eye Examination", "Cardiology Consultation", "Neurology Consultation", "Orthopedic Consultation"]
+        "reasons": ["Routine Checkup", "Post-surgery Follow-up", "Blood Pressure Monitoring", "Physical Therapy Session", "Vaccination", "Dental Checkup", "Eye Examination", "Cardiology Consultation", "Neurology Consultation", "Orthopedic Consultation"]
+
+    },
+    31: {
+        "summary": "Dear {patient_name}, for your {reason} appointment, please bring any previous imaging studies.",
+        "description": "We are looking forward to your {reason} appointment, {patient_name}. Please bring any previous imaging studies. This will help us understand your health better and provide the best care possible.",
+        "reasons": ["Radiology Consultation", "Orthopedic Consultation", "Neurology Consultation"]
+    },
+    32: {
+        "summary": "Dear {patient_name}, for your {reason} appointment, please bring a list of any questions or concerns you have.",
+        "description": "We are committed to your health, {patient_name}. For your {reason} appointment, please bring a list of any questions or concerns you have. This will help us address your needs better.",
+        "reasons": ["Routine Checkup", "Post-surgery Follow-up", "Blood Pressure Monitoring", "Physical Therapy Session", "Vaccination", "Dental Checkup", "Eye Examination", "Cardiology Consultation", "Neurology Consultation", "Orthopedic Consultation"]
+    }
+
+}
+    # The LOCATIONS_AND_STAFF dictionary contains information about different blocks in a hospital.
+    # Each block is represented by a key (e.g., "A", "B", "C", "D").
+    # The value for each block is another dictionary that contains:
+    # - the building number,
+    # - the floor number,
+    # - a list of rooms, and
+    # - a list of staff members.
+    #
+    # Each staff member is represented by a dictionary that contains:
+    # - the staff member's name,
+    # - their role (e.g., "Doctor", "Nurse"),
+    # - their specialization, and
+    # - a list of their tasks.
+
+
+
+LOCATIONS_AND_STAFF = {
+    "A": {
+        "building": 1,
+        "floor": 2,
+        "rooms": ["Neurology Room 1", "General Practice Room 1", "Blood Pressure Monitoring Room 1", "Post-surgery Care Room 1", "Physical Therapy Room 1", "Vaccination Room 1"],
+        "staff": [
+            {"name": "Dr. John Smith", "role": "Doctor", "specialization": "Neurology", "tasks": ["Neurology Consultation", "Routine Checkup"]},
+            {"name": "Dr. James Allen", "role": "Doctor", "specialization": "General Practice", "tasks": ["Routine Checkup", "Post-surgery Follow-up"]},
+            {"name": "Nurse Emily Johnson", "role": "Nurse", "specialization": "Blood Pressure Monitoring", "tasks": ["Blood Pressure Monitoring"]},
+            {"name": "Nurse Sarah Brown", "role": "Nurse", "specialization": "Post-surgery Care", "tasks": ["Post-surgery Follow-up"]},
+            {"name": "Dr. David Davis", "role": "Doctor", "specialization": "Physical Therapy", "tasks": ["Physical Therapy Session"]},
+            {"name": "Nurse Robert Clark", "role": "Nurse", "specialization": "Vaccination", "tasks": ["Vaccination"]},
+            {"name": "Dr. Michael Extra", "role": "Doctor", "specialization": "General Practice", "tasks": ["Routine Checkup", "Post-surgery Follow-up"]},
+            {"name": "Dr. Laura Thompson", "role": "Doctor", "specialization": "Radiology", "tasks": ["CT Scan", "MRI", "Ultrasound"]},
+            {"name": "Dr. Olivia Garcia", "role": "Doctor", "specialization": "Endocrinology", "tasks": ["Glucose Tolerance Test", "Lipid Profile Test"]},
+            {"name": "Dr. Sophia Martinez", "role": "Doctor", "specialization": "Gastroenterology", "tasks": ["Endoscopy", "Colonoscopy"]},
+            {"name": "Dr. Mia Robinson", "role": "Doctor", "specialization": "Pathology", "tasks": ["Biopsy", "Blood Work"]},
+            {"name": "Dr. Charlotte Hall", "role": "Doctor", "specialization": "Hepatology", "tasks": ["Liver Function Test"]},
+            {"name": "Dr. Andrew Simmons", "role": "Doctor", "specialization": "Allergology", "tasks": ["Allergy Testing"]},
+            {"name": "Dr. Benjamin Foster", "role": "Doctor", "specialization": "Audiology", "tasks": ["Audiology Testing"]},
+            {"name": "Dr. Samuel Hughes", "role": "Doctor", "specialization": "Radiology", "tasks": ["Radiology Consultation"]}
+        ]
+    },
+    "B": {
+        "building": 1,
+        "floor": 3,
+        "rooms": ["Cardiology Room 1", "Dentistry Room 1", "General Practice Room 2", "Eye Care Room 1", "Post-surgery Care Room 2", "Orthopedics Room 1"],
+        "staff": [
+            {"name": "Dr. William Thompson", "role": "Doctor", "specialization": "Cardiology", "tasks": ["Cardiology Consultation", "Routine Checkup"]},
+            {"name": "Dr. Richard Adams", "role": "Doctor", "specialization": "Dentistry", "tasks": ["Dental Checkup"]},
+            {"name": "Nurse Linda Miller", "role": "Nurse", "specialization": "General Practice", "tasks": ["Routine Checkup"]},
+            {"name": "Nurse Patricia Baker", "role": "Nurse", "specialization": "Eye Care", "tasks": ["Eye Examination"]},
+            {"name": "Dr. Thomas Wilson", "role": "Doctor", "specialization": "Post-surgery Care", "tasks": ["Post-surgery Follow-up"]},
+            {"name": "Dr. Charles Carter", "role": "Doctor", "specialization": "Orthopedics", "tasks": ["Orthopedic Consultation"]},
+            {"name": "Dr. Michael Extra", "role": "Doctor", "specialization": "General Practice", "tasks": ["Routine Checkup", "Post-surgery Follow-up"]},
+            {"name": "Dr. Amelia Turner", "role": "Doctor", "specialization": "Radiology", "tasks": ["CT Scan", "MRI", "Ultrasound"]},
+            {"name": "Dr. Harper Perez", "role": "Doctor", "specialization": "Endocrinology", "tasks": ["Glucose Tolerance Test", "Lipid Profile Test"]},
+            {"name": "Dr. Evelyn King", "role": "Doctor", "specialization": "Gastroenterology", "tasks": ["Endoscopy", "Colonoscopy"]},
+            {"name": "Dr. Abigail Wright", "role": "Doctor", "specialization": "Pathology", "tasks": ["Biopsy", "Blood Work"]},
+            {"name": "Dr. Emily Lopez", "role": "Doctor", "specialization": "Hepatology", "tasks": ["Liver Function Test"]},
+            {"name": "Dr. Jacob Bailey", "role": "Doctor", "specialization": "Allergology", "tasks": ["Allergy Testing"]},
+            {"name": "Dr. Lucas Cooper", "role": "Doctor", "specialization": "Audiology", "tasks": ["Audiology Testing"]},
+            {"name": "Dr. Ethan Reed", "role": "Doctor", "specialization": "Radiology", "tasks": ["Radiology Consultation"]}
+        ]
+    },
+    "C": {
+        "building": 2,
+        "floor": 1,
+        "rooms": ["Orthopedics Room 2", "Eye Care Room 2", "Vaccination Room 2", "Cardiology Room 2", "Dentistry Room 2", "Neurology Room 2"],
+        "staff": [
+            {"name": "Dr. Christopher Taylor", "role": "Doctor", "specialization": "Orthopedics", "tasks": ["Orthopedic Consultation", "Routine Checkup"]},
+            {"name": "Dr. Daniel Evans", "role": "Doctor", "specialization": "Eye Care", "tasks": ["Eye Examination"]},
+            {"name": "Nurse Jennifer Anderson", "role": "Nurse", "specialization": "Vaccination", "tasks": ["Vaccination"]},
+            {"name": "Nurse Jessica Foster", "role": "Nurse", "specialization": "Cardiology", "tasks": ["Cardiology Consultation"]},
+            {"name": "Dr. Matthew Thomas", "role": "Doctor", "specialization": "Dentistry", "tasks": ["Dental Checkup"]},
+            {"name": "Dr. Anthony Green", "role": "Doctor", "specialization": "Neurology", "tasks": ["Neurology Consultation", "Routine Checkup"]},
+            {"name": "Dr. Michael Extra", "role": "Doctor", "specialization": "General Practice", "tasks": ["Routine Checkup", "Post-surgery Follow-up"]},
+            {"name": "Dr. Luna Scott", "role": "Doctor", "specialization": "Radiology", "tasks": ["CT Scan", "MRI", "Ultrasound"]},
+            {"name": "Dr. Chloe Mitchell", "role": "Doctor", "specialization": "Endocrinology", "tasks": ["Glucose Tolerance Test", "Lipid Profile Test"]},
+            {"name": "Dr. Madison Campbell", "role": "Doctor", "specialization": "Gastroenterology", "tasks": ["Endoscopy", "Colonoscopy"]},
+            {"name": "Dr. Scarlett Rodriguez", "role": "Doctor", "specialization": "Pathology", "tasks": ["Biopsy", "Blood Work"]},
+            {"name": "Dr. Victoria Carter", "role": "Doctor", "specialization": "Hepatology", "tasks": ["Liver Function Test"]},
+            {"name": "Dr. Oliver Morris", "role": "Doctor", "specialization": "Allergology", "tasks": ["Allergy Testing"]},
+            {"name": "Dr. Elijah Hughes", "role": "Doctor", "specialization": "Audiology", "tasks": ["Audiology Testing"]}
+        ]
+    },
+    "D": {
+        "building": 2,
+        "floor": 4,
+        "rooms": ["Eye Care Room 3", "General Practice Room 3", "Blood Pressure Monitoring Room 2", "Post-surgery Care Room 3", "Physical Therapy Room 2", "Vaccination Room 3"],
+        "staff": [
+            {"name": "Dr. Joseph Jackson", "role": "Doctor", "specialization": "Eye Care", "tasks": ["Eye Examination"]},
+            {"name": "Dr. Mark Hughes", "role": "Doctor", "specialization": "General Practice", "tasks": ["Routine Checkup", "Blood Pressure Monitoring"]},
+            {"name": "Nurse Elizabeth White", "role": "Nurse", "specialization": "Blood Pressure Monitoring", "tasks": ["Blood Pressure Monitoring"]},
+            {"name": "Nurse Susan Lewis", "role": "Nurse", "specialization": "Post-surgery Care", "tasks": ["Post-surgery Follow-up"]},
+            {"name": "Dr. Steven Harris", "role": "Doctor", "specialization": "Physical Therapy", "tasks": ["Physical Therapy Session"]},
+            {"name": "Nurse Paul Martin", "role": "Nurse", "specialization": "Vaccination", "tasks": ["Vaccination"]},
+            {"name": "Dr. Michael Extra", "role": "Doctor", "specialization": "General Practice", "tasks": ["Routine Checkup", "Post-surgery Follow-up"]},
+            {"name": "Dr. Aria Scott", "role": "Doctor", "specialization": "Radiology", "tasks": ["CT Scan", "MRI", "Ultrasound"]},
+            {"name": "Dr. Scarlett Evans", "role": "Doctor", "specialization": "Endocrinology", "tasks": ["Glucose Tolerance Test", "Lipid Profile Test"]},
+            {"name": "Dr. Zoe Edwards", "role": "Doctor", "specialization": "Gastroenterology", "tasks": ["Endoscopy", "Colonoscopy"]},
+            {"name": "Dr. Stella Collins", "role": "Doctor", "specialization": "Pathology", "tasks": ["Biopsy", "Blood Work"]},
+            {"name": "Dr. Isla Stewart", "role": "Doctor", "specialization": "Hepatology", "tasks": ["Liver Function Test"]},
+            {"name": "Dr. Lucas Bennett", "role": "Doctor", "specialization": "Allergology", "tasks": ["Allergy Testing"]},
+            {"name": "Dr. Mason Patterson", "role": "Doctor", "specialization": "Audiology", "tasks": ["Audiology Testing"]}
+            
+        ]
     }
 }
+
+
+

@@ -3,7 +3,7 @@ from datetime import datetime, timedelta
 from faker import Faker
 import random
 import argparse
-from templates.templates import TEMPLATES
+from templates.templates import TEMPLATES, LOCATIONS_AND_STAFF
 
 # Initialize faker
 fake = Faker()
@@ -13,7 +13,8 @@ def generate_appointment():
     patient_name = fake.name()
     
     # Select a random template
-    template = random.choice(list(TEMPLATES.values()))
+    template_id = random.choice(list(TEMPLATES.keys()))
+    template = TEMPLATES[template_id]
     reason = random.choice(template["reasons"])
 
     # Generate random appointment date and time within working hours
@@ -29,12 +30,39 @@ def generate_appointment():
     start_time = datetime(appointment_date.year, appointment_date.month, appointment_date.day, random.randint(8, 18), random.choice([0, 30]))
     end_time = start_time + timedelta(minutes=30)
 
-    # Mock locations
-    block = random.choice(['A', 'B', 'C', 'D'])
-    building = random.randint(1, 5)
-    floor = random.randint(1, 6)
-    room = random.randint(1, 10)
+    # Check which blocks have a "staff" who is able to handle those "tasks" the same as "reason". 
+    # Select only blocks that have at least one "staff" who can do the same "tasks" as "reason"
+    suitable_blocks = []
+    for block, details in LOCATIONS_AND_STAFF.items():
+        print(f"Checking block: {block}")
+        for staff in details["staff"]:
+            print(f"Checking staff: {staff}")
+            tasks = staff["tasks"]
+            if reason in tasks:
+                print(f"Found suitable staff: {staff} in block: {block}")
+                suitable_blocks.append(block)
+                break
+    if not suitable_blocks:
+        raise ValueError(f"No suitable block found for reason: {reason}")
+    print(f"Suitable blocks: {suitable_blocks}")
+    block = random.choice(suitable_blocks)
+    print(f"Selected block: {block}")
+    building = LOCATIONS_AND_STAFF[block]["building"]
+    floor = LOCATIONS_AND_STAFF[block]["floor"]
+    room = random.choice(LOCATIONS_AND_STAFF[block]["rooms"])
     location = f'Block {block} - Building {building} - Floor {floor} - Room {room}'
+
+    # Select a staff member who specializes in the reason for the appointment
+    staff_members = []
+    for staff in LOCATIONS_AND_STAFF[block]["staff"]:
+        tasks = staff["tasks"]
+        print(f"Comparing {reason} with {tasks}")
+        if reason in tasks:
+            staff_members.append(staff)
+    if not staff_members:
+        raise ValueError(f"No staff member found for reason: {reason}")
+    staff_member = random.choice(staff_members)
+    doctor = f'{staff_member["name"]} ({staff_member["role"]}, {staff_member["specialization"]})'
 
     # Create an iCalendar event
     event = Event()
@@ -43,6 +71,8 @@ def generate_appointment():
     event.add('dtend', end_time)
     event.add('description', template["description"].format(patient_name=patient_name, reason=reason))
     event.add('location', location)
+    event.add('attendee', doctor)
+    event.add('organizer', doctor)  # Add the staff member as the organizer of the event
     
     return event
 
